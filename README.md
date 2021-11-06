@@ -6,11 +6,11 @@ Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctric
 
 	1.2	ESPECÍFICOS:
 
-a.	Comprender el funcionamiento del Sistema Internacional de medidas con el fin de: representar cantidades grandes y pequeñas con notación científica; y el de reconocer prefijos y conceptos varios utilizados en el área de Ciencias Exactas.
+**a.**	Comprender el funcionamiento del Sistema Internacional de medidas con el fin de: representar cantidades grandes y pequeñas con notación científica; y el de reconocer prefijos y conceptos varios utilizados en el área de Ciencias Exactas.
 		
-b.	Identificar: las partes básicas de un circuito eléctrico, los tipos y valores de distintas resistencias, los riesgos eléctricos y las medidas de seguridad que se deben poner en práctica al momento de trabajar con electricidad.
+**b.**	Identificar: las partes básicas de un circuito eléctrico, los tipos y valores de distintas resistencias, los riesgos eléctricos y las medidas de seguridad que se deben poner en práctica al momento de trabajar con electricidad.
 
-c.	Definir conceptos como: átomo, carga eléctrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente, Tierra, etc. A fin de que estos conceptos sean de ayuda para el entendimiento de la materia de Fundamentos de Circuitos Eléctricos y subsiguientes.
+**c.**	Definir conceptos como: átomo, carga eléctrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente, Tierra, etc. A fin de que estos conceptos sean de ayuda para el entendimiento de la materia de Fundamentos de Circuitos Eléctricos y subsiguientes.
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
@@ -125,8 +125,8 @@ Ezequiel
 
 ## 5.	CONCLUSIONES
         
-        a.
-        b.
-        c.
+**a.**
+**b.**
+**c.**
 
 ## 6.	BIBLIOGRAFÍA

@@ -88,7 +88,20 @@ Fidel
 	
 		SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 	
-Ezequiel
+**13. Exprese cada uno de los números siguientes en notación de ingeniería:**
+
+**15. Exprese cada número en notación de ingeniería:**
+
+**17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
+
+**19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
+
+**21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
+
+**23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+
+**25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
+
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
 	
@@ -114,10 +127,27 @@ Fidel
 	
 		SECCIÓN 2–6 El circuito eléctrico
 	
-Ezequiel
+**31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
+
+**33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**
+
+**35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 	
 		SECCIÓN 2–7 Mediciones de circuito básicas
-Ezequiel	
+
+
+**37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
+
+**39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
+
+**41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
+
+4**3. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
+
+**45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:**
+
+**47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.**
+	
 	
 
 ## 4.	VIDEO

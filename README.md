@@ -1,47 +1,82 @@
 # TAREA 1
-TAREA 1
-1.	OBJETIVOS
+## 1.	OBJETIVOS
 
-	1.1	GENERAL:
+	1.1	GENERAL: 
+Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctricos¨ de Floyd, con el objetivo de introducirse en los conceptos básicos de la electrónica.
 
 	1.2	ESPECÍFICOS:
 
-		a.	Analizar y comprender el funcionamiento del Sistema Internacional de medidas con el fin de: representar cantidades grandes y pequeñas con notacion cientifica; y el de reconocer prefijos y conceptos que posteriormente se usaran en el area de ingenieria.
-
-		b.	Definir conceptos como: atomo, carga electrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente,Tierra,etc. A fin de que estos conceptos sean de ayuda para el entendimiento de la materia de Fundamentos de Circuitos Electricos y subsiguientes.
+a.	Comprender el funcionamiento del Sistema Internacional de medidas con el fin de: representar cantidades grandes y pequeñas con notación científica; y el de reconocer prefijos y conceptos varios utilizados en el área de Ciencias Exactas.
 		
-		c.	Reconocer: las partes basicas de un circuito electrico, los tipos y valores de distintas resistencias, los riesgos electricos y las medidas de seguridad que se deben poner en practica al momento de trabajar con electricidad.
+b.	Identificar: las partes básicas de un circuito eléctrico, los tipos y valores de distintas resistencias, los riesgos eléctricos y las medidas de seguridad que se deben poner en práctica al momento de trabajar con electricidad.
 
+c.	Definir conceptos como: átomo, carga eléctrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente, Tierra, etc. A fin de que estos conceptos sean de ayuda para el entendimiento de la materia de Fundamentos de Circuitos Eléctricos y subsiguientes.
 
-2.	MARCO TEÓRICO (RESUMEN)
+## 2.	MARCO TEÓRICO (RESUMEN)
 
-	CAPÍTULO 1:	Cantidades y unidades
+### CAPÍTULO 1: Cantidades y unidades
 	
-		1–1 Unidades de medición 
-		1–2 Notación científica 
-		1–3 Notación de ingeniería y prefijos métricos 
-		1–4 Conversiones de unidades métricas
+        1–1 Unidades de medición
 	
-	CAPÍTULO 2: Voltaje, corriente y resistencia
+ASDFA
+        
+        1–2 Notación científica
 	
-		2–1 Estructura atómica 
-		2–2 Carga eléctrica 
-		2–3 Voltaje, corriente y resistencia 
-		2–4 Fuentes de voltaje y de corriente 
-		2–5 Resistores 
-		2–6 El circuito eléctrico 
-		2–7 Mediciones de circuito básicas 
-		2–8 Seguridad eléctrica: Una aplicación de circuito 
-
-3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-	
-	CAPÍTULO 1: Problemas (pag. 13)
-	
-		SECCIÓN 1–2 Notación científica
-		SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
-		SECCIÓN 1–4 Conversiones de unidades métricas
+sdfg
 		
-	CAPÍTULO 2: Problemas (pag. 64)
+        1–3 Notación de ingeniería y prefijos métricos
+	
+Pablo
+	
+        1–4 Conversiones de unidades métricas
+	
+ Pablo
+
+### CAPÍTULO 2: Voltaje, corriente y resistencia
+	
+	2–1 Estructura atómica
+
+Fidel
+ 
+	2–2 Carga eléctrica 
+        
+Fidel
+
+	2–3 Voltaje, corriente y resistencia 
+        
+Fidel        
+        
+	2–4 Fuentes de voltaje y de corriente 
+        
+Fidel        
+        
+	2–5 Resistores 
+        
+Fidel        
+        
+	2–6 El circuito eléctrico 
+        
+Fidel        
+        
+	2–7 Mediciones de circuito básicas 
+        
+Fidel        
+        
+	2–8 Seguridad eléctrica: Una aplicación de circuito 
+
+Fidel
+
+## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+	
+### CAPÍTULO 1: Problemas (pag. 13)
+	
+   SECCIÓN 1–2 Notación científica
+   
+   SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+        
+   SECCIÓN 1–4 Conversiones de unidades métricas
+		
+### CAPÍTULO 2: Problemas (pag. 64)
 	
 		SECCIÓN 2–2 Carga eléctrica
 		SECCIÓN 2–3 Voltaje, corriente y resistencia
@@ -50,13 +85,13 @@ TAREA 1
 		SECCIÓN 2–6 El circuito eléctrico
 		SECCIÓN 2–7 Mediciones de circuito básicas
 	
-4.	VIDEO
+## 4.	VIDEO
 
 
-5.	CONCLUSIONES
+## 5.	CONCLUSIONES
         
         a.
         b.
         c.
 
-6.	BIBLIOGRAFÍA
+## 6.	BIBLIOGRAFÍA

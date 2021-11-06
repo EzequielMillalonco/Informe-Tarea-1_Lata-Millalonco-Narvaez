@@ -51,11 +51,10 @@ TAREA 1
 		SECCIÓN 2–6 El circuito eléctrico
 		SECCIÓN 2–7 Mediciones de circuito básicas
 	
-		
-4.	VIDEOS
+4.	VIDEO
 
 
 5.	CONCLUSIONES
 
-SS
+
 6.	BIBLIOGRAFÍA

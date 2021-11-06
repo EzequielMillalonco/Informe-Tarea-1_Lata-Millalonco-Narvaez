@@ -6,11 +6,11 @@ TAREA 1
 
 	1.2	ESPECÍFICOS:
 
-		a.	Asdf
+		a.	Analizar y comprender el funcionamiento del Sistema Internacional de medidas con el fin de: representar cantidades grandes y pequeñas con notacion cientifica; y el de reconocer prefijos y conceptos que posteriormente se usaran en el area de ingenieria.
 
-		b.	Asdf
-
-		c.	Asdf
+		b.	Definir conceptos como: atomo, carga electrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente,Tierra,etc. A fin de que estos conceptos sean de ayuda para el entendimiento de la materia de Fundamentos de Circuitos Electricos y subsiguientes.
+		
+		c.	Reconocer: las partes basicas de un circuito electrico, los tipos y valores de distintas resistencias, los riesgos electricos y las medidas de seguridad que se deben poner en practica al momento de trabajar con electricidad.
 
 
 2.	MARCO TEÓRICO (RESUMEN)

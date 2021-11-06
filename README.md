@@ -20,12 +20,22 @@ c.	Definir conceptos como: átomo, carga eléctrica, voltaje, corriente y resist
 	
 En 1875 se crea el ¨Système International d’Unités¨ para establecer estándares internacionales de medidas entre 18 países (a los cuales se les unirian mas posteriormente.)
 
-En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), ademas este utiliza su definicion en funcion del tiempo(t)(el segundo). Las demás medidas utilizadas en electronica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto es una unidad derivada.
+En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), ademas este utiliza su definicion en funcion del tiempo(t)(el segundo). Las demás medidas utilizadas en electronica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto es una unidad derivada. **INSERTAR TABLA 1 AQUI**
+
+Se utiliza un símbolo para representar el nombre de la cantidad y otro par aidentificar la unidad de medicion. Por ejemplo, P significa Potencia y la unidad de potencia es el watt representado por la letra W.
         
 		1–2 Notación científica
 	
-sdfg
-		
+La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 .
+
+**Potencias de diez** (INSERTA MAPA CONCEPTUAL AQUI)
+
+**Calculos con potencias de diez**
+*Adicion
+*Sustraccion
+*Multiplicacion
+*Division
+
         	1–3 Notación de ingeniería y prefijos métricos
 	
 Pablo
@@ -74,40 +84,40 @@ Fidel
 	
 		SECCIÓN 1–2 Notación científica
 	
-(orden)
+Fidel
 	
 		SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 	
-(orden)	
+Ezequiel
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
 	
-(orden)	
+Pablo	
 		
 ### CAPÍTULO 2: Problemas (pag. 64)
 	
 		SECCIÓN 2–2 Carga eléctrica
 	
-(orden)	
+Pablo
 	
 		SECCIÓN 2–3 Voltaje, corriente y resistencia
 	
-(orden)	
+Pablo	
 	
 		SECCIÓN 2–4 Fuentes de voltaje y de corriente
 	
-(orden)	
+Pablo	
 	
 		SECCIÓN 2–5 Resistores
-(orden)	
+Fidel
 	
 	
 		SECCIÓN 2–6 El circuito eléctrico
 	
-(orden)	
+Ezequiel
 	
 		SECCIÓN 2–7 Mediciones de circuito básicas
-	
+Ezequiel	
 	
 
 ## 4.	VIDEO

@@ -1,11 +1,11 @@
 # Laboratorio-1
 Laboratorio 1 de Fundamentos de Circuitos Electricos
 1.	OBJETIVOS
-1.1	GENERAL:
-1.2	ESPECIFICOS:
-a.	Asdf
-b.	Asdf
-c.	Asdf
+  1.1	GENERAL:
+  1.2	ESPECIFICOS:
+  a.	Asdf
+  b.	Asdf
+  c.	Asdf
 
 2.	MARCO TEÓRICO (RESUMEN)
 

@@ -16,53 +16,55 @@ c.	Definir conceptos como: átomo, carga eléctrica, voltaje, corriente y resist
 
 ### CAPÍTULO 1: Cantidades y unidades
 	
-        1–1 Unidades de medición
+        	1–1 Unidades de medición
 	
-ASDFA
+En 1875 se crea el ¨Système International d’Unités¨ para establecer estándares internacionales de medidas entre 18 países (a los cuales se les unirian mas posteriormente.)
+
+En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), ademas este utiliza su definicion en funcion del tiempo(t)(el segundo). Las demás medidas utilizadas en electronica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto es una unidad derivada.
         
-        1–2 Notación científica
+		1–2 Notación científica
 	
 sdfg
 		
-        1–3 Notación de ingeniería y prefijos métricos
+        	1–3 Notación de ingeniería y prefijos métricos
 	
 Pablo
 	
-        1–4 Conversiones de unidades métricas
+        	1–4 Conversiones de unidades métricas
 	
  Pablo
 
 ### CAPÍTULO 2: Voltaje, corriente y resistencia
 	
-	2–1 Estructura atómica
+		2–1 Estructura atómica
 
 Fidel
  
-	2–2 Carga eléctrica 
+		2–2 Carga eléctrica 
         
 Fidel
 
-	2–3 Voltaje, corriente y resistencia 
+		2–3 Voltaje, corriente y resistencia 
         
 Fidel        
         
-	2–4 Fuentes de voltaje y de corriente 
+		2–4 Fuentes de voltaje y de corriente 
         
 Fidel        
         
-	2–5 Resistores 
+		2–5 Resistores 
         
 Fidel        
         
-	2–6 El circuito eléctrico 
+		2–6 El circuito eléctrico 
         
 Fidel        
         
-	2–7 Mediciones de circuito básicas 
+		2–7 Mediciones de circuito básicas 
         
 Fidel        
         
-	2–8 Seguridad eléctrica: Una aplicación de circuito 
+		2–8 Seguridad eléctrica: Una aplicación de circuito 
 
 Fidel
 
@@ -70,21 +72,44 @@ Fidel
 	
 ### CAPÍTULO 1: Problemas (pag. 13)
 	
-   SECCIÓN 1–2 Notación científica
-   
-   SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
-        
-   SECCIÓN 1–4 Conversiones de unidades métricas
+		SECCIÓN 1–2 Notación científica
+	
+(orden)
+	
+		SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+	
+(orden)	
+	
+		SECCIÓN 1–4 Conversiones de unidades métricas
+	
+(orden)	
 		
 ### CAPÍTULO 2: Problemas (pag. 64)
 	
 		SECCIÓN 2–2 Carga eléctrica
+	
+(orden)	
+	
 		SECCIÓN 2–3 Voltaje, corriente y resistencia
+	
+(orden)	
+	
 		SECCIÓN 2–4 Fuentes de voltaje y de corriente
+	
+(orden)	
+	
 		SECCIÓN 2–5 Resistores
+(orden)	
+	
+	
 		SECCIÓN 2–6 El circuito eléctrico
+	
+(orden)	
+	
 		SECCIÓN 2–7 Mediciones de circuito básicas
 	
+	
+
 ## 4.	VIDEO
 
 

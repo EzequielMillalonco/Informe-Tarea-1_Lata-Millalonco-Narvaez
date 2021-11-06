@@ -31,8 +31,7 @@ TAREA 1
 		2–5 Resistores 
 		2–6 El circuito eléctrico 
 		2–7 Mediciones de circuito básicas 
-		2–8 Seguridad eléctrica 
-		Una aplicación de circuito 
+		2–8 Seguridad eléctrica: Una aplicación de circuito 
 
 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
@@ -55,6 +54,9 @@ TAREA 1
 
 
 5.	CONCLUSIONES
-
+        
+        a.
+        b.
+        c.
 
 6.	BIBLIOGRAFÍA

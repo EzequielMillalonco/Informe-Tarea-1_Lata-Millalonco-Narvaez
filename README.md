@@ -52,7 +52,7 @@ TAREA 1
 		SECCIÓN 2–7 Mediciones de circuito básicas
 	
 		
-4.	VIDEO
+4.	VIDEOS
 
 
 5.	CONCLUSIONES

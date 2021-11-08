@@ -108,59 +108,59 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-(a) 89,000 =
+(a) 89,000 = 89 * 10^3
 
-(b) 450,000 =
+(b) 450,000 = 450 * 10^3
 
-(c) 12,040,000,000,000 = 
+(c) 12,040,000,000,000 = 12.04 * 10^12
 
 **15. Exprese cada número en notación de ingeniería:**
 
-(a) 0.000345 =
+(a) 0.000345 = 345 * 10^-6
 
-(b) 0.025 =
+(b) 0.025 = 25 * 10^-3
 
-(c) 0.00000000129 =
+(c) 0.00000000129 = 1.29 * 10^-9
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-(a) (2.5 * 10-3) + (4.6 * 10-3) =
+(a) (2.5 * 10-3) + (4.6 * 10-3) = 7.1 * 10^-3
 
-(b) (68 * 106 ) + (33 * 106) =
+(b) (68 * 106 ) + (33 * 106) = 101 * 10^6
 
-(c) (1.25 * 106) + (250 * 103) =
+(c) (1.25 * 106) + (250 * 103) = 1.50 * 10^6
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-(a) 50 , (2.2 * 103) =
+(a) 50 , (2.2 * 103) = 22.7 * 10^-3
 
-(b) (5 * 103) , (25 * 10-6) =
+(b) (5 * 103) , (25 * 10-6) = 200 * 10^6
 
-(c) 560 * 103 , (660 * 103) =
+(c) 560 * 103 , (660 * 103) = 848 * 10^-3
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-(a) 0.000345 =
+(a) 0.000345 = 345 mA
 
-(b) 0.025 =
+(b) 0.025 = 25 mA
 
-(c) 0.00000000129 =
+(c) 0.00000000129 = 1.29 nA
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-(a) 3 * 10^-6 F =
+(a) 3 * 10^-6 F = 3 mF
 
-(b) 3.3 * 10^6 Æ =
+(b) 3.3 * 10^6 Æ = 3.3 MÆ
 
-(c) 350 * 10^-9 A =
+(c) 350 * 10^-9 A = 350 nA
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
 
-(a) 7.5 pA =
+(a) 7.5 pA = 7.5 * 10^-12 A
 
-(b) 3.3 GHz =
+(b) 3.3 GHz = 3.3 * 10^9 Hz
 
-(c) 280 nW =
+(c) 280 nW = 2.8 * 10^-7 W
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
 	
@@ -196,6 +196,8 @@ Fidel
 
 
 **37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
+
+
 
 **39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
 

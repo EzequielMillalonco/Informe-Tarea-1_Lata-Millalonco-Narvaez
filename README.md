@@ -18,11 +18,15 @@ Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctric
 	
         	1–1 Unidades de medición
 	
-En 1875 se crea el ¨Système International d’Unités¨ para establecer estándares internacionales de medidas entre 18 países (a los cuales se les unirian mas posteriormente.)
+En 1875 se crea el ¨Système International d’Unités¨ para establecer estándares internacionales de medidas entre 18 países (a los cuales se les unirían más posteriormente.)
 
-En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), ademas este utiliza su definicion en funcion del tiempo(t)(el segundo). Las demás medidas utilizadas en electronica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto es una unidad derivada. **INSERTAR TABLA 1 AQUI**
+En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), además este utiliza su definición en función del tiempo(t)(el segundo). Las demás medidas utilizadas en electrónica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto, es una unidad derivada (Ver tabla 1). 
 
-Se utiliza un símbolo para representar el nombre de la cantidad y otro par aidentificar la unidad de medicion. Por ejemplo, P significa Potencia y la unidad de potencia es el watt representado por la letra W.
+![download](https://user-images.githubusercontent.com/93396250/140690292-a82a422c-b08a-447f-bd8a-e0165756fd62.jpg)
+
+Se utiliza un símbolo para representar el nombre de la cantidad y otro para identificar la unidad de medición (Ver tabla 2). 
+
+![Capture](https://user-images.githubusercontent.com/93396250/140690459-5f2d3490-27f4-4cc6-b61a-403613ec06b2.JPG)
         
 		1–2 Notación científica
 	

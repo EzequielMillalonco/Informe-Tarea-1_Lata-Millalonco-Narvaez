@@ -24,13 +24,13 @@ En SI (abreviatura de Système International d’Unités) se basa en 7 unidades 
 
 ![download](https://user-images.githubusercontent.com/93396250/140690292-a82a422c-b08a-447f-bd8a-e0165756fd62.jpg)
 
-*Tabla 1. Unidades básicas en el SI
+*Tabla 1. Unidades básicas en el SI*
 
 Se utiliza un símbolo para representar el nombre de la cantidad y otro para identificar la unidad de medición (Ver tabla 2). 
 
 ![Cantidad Símbolo](https://user-images.githubusercontent.com/93396250/140690521-6703bbd1-f84e-477e-88b0-1d44d996de2c.JPG)
 
-*Tabla 2. Cantidades eléctricas y unidades derivadas con símbolos SI.
+*Tabla 2. Cantidades eléctricas y unidades derivadas con símbolos SI.*
         
 		1–2 Notación científica
 	

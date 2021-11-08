@@ -117,6 +117,7 @@ Fidel
    (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
 
    (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
+   
 
 **15. Exprese cada número en notación de ingeniería:**
 
@@ -125,6 +126,7 @@ Fidel
    (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
 
    (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
+   
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
@@ -133,6 +135,7 @@ Fidel
    (b) (68 * 106 ) + (33 * 106) = 101 * 10^6
 
    (c) (1.25 * 106) + (250 * 103) = 1.50 * 10^6
+   
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
@@ -141,6 +144,7 @@ Fidel
    (b) (5 * 103) , (25 * 10-6) = 200 * 10^6
 
    (c) 560 * 103 , (660 * 103) = 848 * 10^-3
+   
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
@@ -149,6 +153,7 @@ Fidel
    (b) 0.025 = 25 mA
 
    (c) 0.00000000129 = 1.29 nA
+   
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
@@ -157,6 +162,7 @@ Fidel
    (b) 3.3 * 10^6 Æ = 3.3 MÆ
 
    (c) 350 * 10^-9 A = 350 nA
+   
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
@@ -165,6 +171,7 @@ Fidel
    (b) 3.3 GHz = 3.3 * 10^9 Hz
 
    (c) 280 nW = 2.8 * 10^-7 W
+   
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
 	

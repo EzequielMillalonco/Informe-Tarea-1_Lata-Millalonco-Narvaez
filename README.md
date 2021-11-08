@@ -217,7 +217,11 @@ Fidel
 ## 5.	CONCLUSIONES
         
 **a.**
+
 **b.**
+
 **c.**
 
 ## 6.	BIBLIOGRAFÍA
+
+

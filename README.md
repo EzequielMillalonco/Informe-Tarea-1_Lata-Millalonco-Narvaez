@@ -62,6 +62,9 @@ A menudo resulta más útil convertir una cantidad que tiene un determinado pref
 
 Todo aquello que nos rodea es considerado materia la cual se compone de átomos, y ellos a su vez de electrones, protones y neutrones. El átomo es la partícula más pequeña, que forma un elemento y logra mantener sus particularidades y propiedades.
 
+![NUCLEO](https://user-images.githubusercontent.com/93826527/140783238-23247126-462c-4ffa-b8cf-758210c64efc.jpg)
+
+
  
 		2–2 Carga eléctrica 
         

@@ -108,18 +108,59 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
+(a) 89,000 =
+
+(b) 450,000 =
+
+(c) 12,040,000,000,000 = 
+
 **15. Exprese cada número en notación de ingeniería:**
+
+(a) 0.000345 =
+
+(b) 0.025 =
+
+(c) 0.00000000129 =
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
+(a) (2.5 * 10-3) + (4.6 * 10-3) =
+
+(b) (68 * 106 ) + (33 * 106) =
+
+(c) (1.25 * 106) + (250 * 103) =
+
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
+
+(a) 50 , (2.2 * 103) =
+
+(b) (5 * 103) , (25 * 10-6) =
+
+(c) 560 * 103 , (660 * 103) =
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
+(a) 0.000345 =
+
+(b) 0.025 =
+
+(c) 0.00000000129 =
+
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+
+(a) 3 * 10^-6 F =
+
+(b) 3.3 * 10^6 Æ =
+
+(c) 350 * 10^-9 A =
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
 
+(a) 7.5 pA =
+
+(b) 3.3 GHz =
+
+(c) 280 nW =
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
 	

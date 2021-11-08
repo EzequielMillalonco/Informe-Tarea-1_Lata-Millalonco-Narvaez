@@ -37,13 +37,22 @@ La notación científica es muy util al momento de representar números grandes 
 *Division
 
         	1–3 Notación de ingeniería y prefijos métricos
+		
+[![Diagrama-en-blanco.png](https://i.postimg.cc/D0pXvGMj/Diagrama-en-blanco.png)](https://postimg.cc/bSbJLZ8k)
 	
-Pablo
-	
-        	1–4 Conversiones de unidades métricas
-	
- Pablo
+La notación en ingeniera al igual que en la matemática se usa para poder expresar de mejor manera cantidades o muy grandes o muy pequeñas, pero a diferencia de las matemáticas, la notación en ingeniera solo usa potencias de 10 que son múltiplos de 3.  Teniendo asi como ejemplo el numero 65000 que en notacion matematica seria represetado como 6.5*10^4 en notacion de ingenieria es 65*10^3.
 
+Para poder nombrar a cada una de estas potencias múltiplos de 3 se usan prefijos métricos que sirven para expresar cada una de estas potencias, cabe recalcar que estos prefijos métricos se usan solo con números que tienen una unidad de medida tales como el voltaje, amperio, ohms, etc. También es importante mencionar que no todas las potencias múltiples de 3 tienen su prefijo métrico, solo las más comunes.
+        	
+		1–4 Conversiones de unidades métricas
+	
+A menudo resulta más útil convertir una cantidad que tiene un determinado prefijo métrico a otra, esto con el fin de facilitar operaciones matemáticas. La conversión de dichas unidades tiene 3 reglas principales las cuales son:
+
+	1. Cuando se convierte de una unidad grande a una pequeña la coma se mueve hacia la derecha
+	2. Cuando se convierte de una unidad pequeña a una grande la coma se mueve hacia la izquierda
+	3. El número de espacios que la coma debe recorrer está definido por la diferencia entre las potencias de 10 de las unidades que se quiere convertir.
+
+	
 ### CAPÍTULO 2: Voltaje, corriente y resistencia
 	
 		2–1 Estructura atómica

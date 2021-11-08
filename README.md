@@ -72,10 +72,14 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 ![Blank diagram (1)](https://user-images.githubusercontent.com/93826527/140828905-0a4947f2-df33-4671-ad64-7cd31a2209a4.png)
 
 
+![kkk](https://user-images.githubusercontent.com/93826527/140829001-398ef093-b3ec-4c9f-913c-6991f6405353.png)
+
+
 		2–3 Voltaje, corriente y resistencia 
         
-Fidel        
-        
+![Blank diagram (2)](https://user-images.githubusercontent.com/93826527/140829036-46b4e8b8-d592-408d-90dd-ff4937e62c30.png)
+
+
 		2–4 Fuentes de voltaje y de corriente 
         
 Fidel        

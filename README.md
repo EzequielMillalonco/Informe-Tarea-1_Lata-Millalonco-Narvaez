@@ -65,6 +65,8 @@ Todo aquello que nos rodea es considerado materia la cual se compone de átomos,
 ![NUCLEO](https://user-images.githubusercontent.com/93826527/140783238-23247126-462c-4ffa-b8cf-758210c64efc.jpg)
 
 
+Dentro del núcleo, las particulas están cargadas negativamente **(electrones)** y positivamente **(protones)**
+
  
 		2–2 Carga eléctrica 
         

@@ -112,11 +112,11 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-   (a) 89,000 = 89 * 10^3
+   (a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros) = 89 * 10^3
 
-   (b) 450,000 = 450 * 10^3
+   (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
 
-   (c) 12,040,000,000,000 = 12.04 * 10^12
+   (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
 
 **15. Exprese cada número en notación de ingeniería:**
 

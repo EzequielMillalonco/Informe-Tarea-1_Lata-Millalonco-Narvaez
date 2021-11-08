@@ -23,22 +23,19 @@ En 1875 se crea el ¨Système International d’Unités¨ para establecer están
 En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), además este utiliza su definición en función del tiempo(t)(el segundo). Las demás medidas utilizadas en electrónica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto, es una unidad derivada (Ver tabla 1). 
 
 ![download](https://user-images.githubusercontent.com/93396250/140690292-a82a422c-b08a-447f-bd8a-e0165756fd62.jpg)
+Tabla 1. Unidades básicas en el SI
 
 Se utiliza un símbolo para representar el nombre de la cantidad y otro para identificar la unidad de medición (Ver tabla 2). 
 
-![Capture](https://user-images.githubusercontent.com/93396250/140690459-5f2d3490-27f4-4cc6-b61a-403613ec06b2.JPG)
+![Cantidad Símbolo](https://user-images.githubusercontent.com/93396250/140690521-6703bbd1-f84e-477e-88b0-1d44d996de2c.JPG)
+Tabla 2. Cantidades eléctricas y unidades derivadas con símbolos SI.
         
 		1–2 Notación científica
 	
-La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 .
+La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 . A continuación se encuentra un mapa conceptual describiendo las operaciones básicas con notación científica.
 
-**Potencias de diez** (INSERTA MAPA CONCEPTUAL AQUI)
+![Jsjsjs](https://user-images.githubusercontent.com/93396250/140695337-f37fb022-df6c-4bf6-8fa0-3b04c9e99136.png)
 
-**Calculos con potencias de diez**
-*Adicion
-*Sustraccion
-*Multiplicacion
-*Division
 
         	1–3 Notación de ingeniería y prefijos métricos
 		

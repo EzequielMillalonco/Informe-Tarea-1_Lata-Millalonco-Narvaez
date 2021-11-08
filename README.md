@@ -23,12 +23,14 @@ En 1875 se crea el ¨Système International d’Unités¨ para establecer están
 En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), además este utiliza su definición en función del tiempo(t)(el segundo). Las demás medidas utilizadas en electrónica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto, es una unidad derivada (Ver tabla 1). 
 
 ![download](https://user-images.githubusercontent.com/93396250/140690292-a82a422c-b08a-447f-bd8a-e0165756fd62.jpg)
-Tabla 1. Unidades básicas en el SI
+
+*Tabla 1. Unidades básicas en el SI
 
 Se utiliza un símbolo para representar el nombre de la cantidad y otro para identificar la unidad de medición (Ver tabla 2). 
 
 ![Cantidad Símbolo](https://user-images.githubusercontent.com/93396250/140690521-6703bbd1-f84e-477e-88b0-1d44d996de2c.JPG)
-Tabla 2. Cantidades eléctricas y unidades derivadas con símbolos SI.
+
+*Tabla 2. Cantidades eléctricas y unidades derivadas con símbolos SI.
         
 		1–2 Notación científica
 	

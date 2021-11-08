@@ -69,8 +69,8 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 
  
 		2–2 Carga eléctrica 
-        
-Fidel
+![Blank diagram (1)](https://user-images.githubusercontent.com/93826527/140828905-0a4947f2-df33-4671-ad64-7cd31a2209a4.png)
+
 
 		2–3 Voltaje, corriente y resistencia 
         

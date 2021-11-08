@@ -60,7 +60,7 @@ A menudo resulta más útil convertir una cantidad que tiene un determinado pref
 	
 		2–1 Estructura atómica
 
-Fidel
+Todo aquello que nos rodea es considerado materia la cual se compone de átomos, y ellos a su vez de electrones, protones y neutrones. El átomo es la partícula más pequeña, que forma un elemento y logra mantener sus particularidades y propiedades.
  
 		2–2 Carga eléctrica 
         

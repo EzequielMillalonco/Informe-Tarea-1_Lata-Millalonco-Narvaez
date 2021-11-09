@@ -36,7 +36,8 @@ Se utiliza un símbolo para representar el nombre de la cantidad y otro para ide
 	
 La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 . A continuación se encuentra un mapa conceptual describiendo las operaciones básicas con notación científica.
 
-![Jsjsjs](https://user-images.githubusercontent.com/93396250/140695337-f37fb022-df6c-4bf6-8fa0-3b04c9e99136.png)
+![1 2](https://user-images.githubusercontent.com/93396250/140840206-2fcbe338-c87c-4b4e-a47a-7002b35c98ac.png)
+
 
 
         	1–3 Notación de ingeniería y prefijos métricos

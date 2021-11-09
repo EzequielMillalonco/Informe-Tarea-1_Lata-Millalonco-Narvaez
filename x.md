@@ -28,7 +28,7 @@ Se utiliza un símbolo para representar el nombre de la cantidad y otro par aide
 	
 La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 .
 
-**Potencias de diez** (INSERTA MAPA CONCEPTUAL AQUI)
+**Potencias de diez** (INSERTA MAPA CONCEPTUAL AQUI) 
 
 **Calculos con potencias de diez**
 *Adicion

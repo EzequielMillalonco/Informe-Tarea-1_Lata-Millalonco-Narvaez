@@ -135,69 +135,114 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 	c) (2.2 * 10^(-9))(7 * 10^(-6)) = Se multiplican los numeros y se suman los coeficientes, obteniendo 15.4 * 10^(-15) y esto es 1.54 * 10^(-14)
 	
-		SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+
+<p align=center> SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
+	
+	1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
 
-   (a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
+	2. 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
 
-   (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
-
-   (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
+	3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
    
-
+	
 **15. Exprese cada número en notación de ingeniería:**
 
-   (a) 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
+	1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
 
-   (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
+	2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
 
-   (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
+	3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
+   
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
+	
+	1. (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 
+	y se pone la potencia de 10 original
+	
+		*Respuesta = 7.1 * 10^-3*
 
-   (a) (2.5 * 10-3) + (4.6 * 10-3) = 7.1 * 10^-3
+	2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 
+	y se pone la potencia de 10 original
+	
+		*Respuesta = 101 * 10^6*
 
-   (b) (68 * 106 ) + (33 * 106) = 101 * 10^6
-
-   (c) (1.25 * 106) + (250 * 103) = 1.50 * 10^6
+	3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . 
+	Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta 
+	queda de la siguiente manera:
+	
+		*Respuesta = 1.50 * 10^6*
+   
    
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-   (a) 50 , (2.2 * 103) = 22.7 * 10^-3
+	1. 50 / (2.2 * 10^3) ==> 50 * 10^0 / 2.2 * 10^3 ==> (50/2) * (10^0-3) ==> 22.72 * 10^-3  
 
-   (b) (5 * 103) , (25 * 10-6) = 200 * 10^6
+		*Respuesta = 22.7 * 10^-3*
 
-   (c) 560 * 103 , (660 * 103) = 848 * 10^-3
+	2. (5 * 10^3) / (25 * 10^-6) ==> (5/25) * (10^3-(-6)) ==> 0.2 * 10^9 ==> Transformar a una potencia de diez menor, entonces:
+	
+		*Respuesta = 200 * 10^6*
+
+	3. 560 * 10^3 / (660 * 10^3) = (560/660) * (10^3-3) ==> 0.84 * 10^0 ==> Transformar a una notación científica, entonces: 
+	
+		*Respuesta = 848 * 10^-3*
+   
    
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-   (a) 0.000345 = 345 mA
+	1. 0.000345 ==> su notación científica es 345 * 10^-6 ==> el prefijo de la potencia 10^-6 es "micro" y su símbolo es la letra ¨u¨ ==> 
+	se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
+	
+		*Respuesta = 345 uA*
 
-   (b) 0.025 = 25 mA
+	2. 0.025 ==> su notación científica es 25 * 10^-3 ==> el prefijo de la potencia 10^-3 es "mili"  y su símbolo es la letra ¨m¨ ==> 
+	se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
+		
+		*Respuesta = 25 mA*
 
-   (c) 0.00000000129 = 1.29 nA
+	3. 0.00000000129 = su notación científica es 129 * 10^-9 ==> el prefijo de la potencia 10^-9 es "nano"  y su símbolo es la letra ¨n¨ ==> 
+	se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
+	
+		*Respuesta = 1.29 nA*
+   
    
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-   (a) 3 * 10^-6 F = 3 mF
+	1. 3 * 10^-6 F ==> la potencia 10^-6 tiene su prefijo "micro" y su simbología es la letra ¨u¨ , entonces:
+	
+		*Respuesta = 3 uF*
 
-   (b) 3.3 * 10^6 Æ = 3.3 MÆ
+	2. 3.3 * 10^6 Ω = la potencia 10^6 tiene su prefijo "mega" y su simbología es la letra ¨M¨ , entonces:
+	
+		*Respuesta = 3.3 MΩ*
 
-   (c) 350 * 10^-9 A = 350 nA
+	3. 350 * 10^-9 A = la potencia 10^-9 tiene su prefijo "nano" y su simbología es la letra ¨n¨ , entonces:
+	
+		*Respuesta = 350 nA*
    
+
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
-   (a) 7.5 pA = 7.5 * 10^-12 A
+	1. 7.5 pA ==> La "p" significa "Pico" y su potencia es 10^-12, entonces: 
+		
+		*Respuesta = 7.5 * 10^-12 A*
 
-   (b) 3.3 GHz = 3.3 * 10^9 Hz
+	2. 3.3 GHz ==> La "G" significa "Giga" y su potencia es 10^9, entonces:
+	
+		*Respuesta = 3.3 * 10^9 Hz*
 
-   (c) 280 nW = 2.8 * 10^-7 W
+	3. 280 nW ==> La "n" significa "nano" y su potencia es 10^-9 ==> 280 * 10^-9 => Transformando => 
+	2.8 * 10^-7 W , entonces:
+	
+		*Respuesta = 2.8 * 10^-7 W*
+
    
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
@@ -372,14 +417,21 @@ Pablo
 	
 	4.7 KΩ
 
+
 		
-		SECCIÓN 2–6 El circuito eléctrico
+SECCIÓN 2–6 El circuito eléctrico
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 
+
+
 **33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**
 
+
+
 **35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
+	
+	
 	
 		SECCIÓN 2–7 Mediciones de circuito básicas
 

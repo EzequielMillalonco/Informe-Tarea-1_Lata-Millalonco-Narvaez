@@ -122,67 +122,91 @@ Fidel
 	
 **15. Exprese cada número en notación de ingeniería:**
 
-1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = *345 * 10^-6
+1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
 
-2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = *25 * 10^-3
+2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
 
-3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = *1.29 * 10^-9
+3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
    
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 	
 1. (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 y se pone la potencia de 10 original
-   
-   *Respuesta = 7.1 * 10^-3
+	
+	*Respuesta = 7.1 * 10^-3*
 
 2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 y se pone la potencia de 10 original
-   
-   *Respuesta = 101 * 10^6
+	
+	*Respuesta = 101 * 10^6*
 
 3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
-   
-   *Respuesta = 1.50 * 10^6
+	
+	*Respuesta = 1.50 * 10^6*
    
    
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-1. 50 / (2.2 * 10^3) = 22.7 * 10^-3
+1. 50 / (2.2 * 10^3) = 
 
-2. (5 * 10^3) / (25 * 10^-6) = 200 * 10^6
+	*Respuesta = 22.7 * 10^-3*
 
-3. 560 * 10^3 / (660 * 10^3) = 848 * 10^-3
+2. (5 * 10^3) / (25 * 10^-6) = 
+	
+	*Respuesta = 200 * 10^6*
+
+3. 560 * 10^3 / (660 * 10^3) = 
+	
+	*Respuesta = 848 * 10^-3*
    
    
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-1. 0.000345 = 345 mA
+1. 0.000345 = 
+	
+	*Respuesta = 345 mA*
 
-2. 0.025 = 25 mA
+2. 0.025 = 
+	
+	*Respuesta = 25 mA*
 
-3. 0.00000000129 = 1.29 nA
+3. 0.00000000129 = 
+	
+	*Respuesta = 1.29 nA*
    
    
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-1. 3 * 10^-6 F = 3 mF
+1. 3 * 10^-6 F = 
+	
+	*Respuesta = 3 mF*
 
-2. 3.3 * 10^6 Æ = 3.3 MÆ
+2. 3.3 * 10^6 Æ = 
+	
+	*Respuesta = 3.3 MÆ*
 
-3. 350 * 10^-9 A = 350 nA 
+3. 350 * 10^-9 A = 
+	
+	*Respuesta = 350 nA*
    
 
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
-1. 7.5 pA = 7.5 * 10^-12 A
+1. 7.5 pA = 
+	
+	*Respuesta = 7.5 * 10^-12 A*
 
-2. 3.3 GHz = 3.3 * 10^9 Hz
+2. 3.3 GHz = 
+	
+	*Respuesta = 3.3 * 10^9 Hz*
 
-3. 280 nW = 2.8 * 10^-7 W
+3. 280 nW = 
+	
+	*Respuesta = 2.8 * 10^-7 W*
    
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas

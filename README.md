@@ -140,38 +140,55 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 	
-	1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
+	1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). 
+	Por tanto se multiplica por 10 elevado a la 3 
+	
+		*Respuesta = 89 * 10^3*
 
-	2. 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
+	2. 450,000 = la coma se recorre 3 espacios hacia la izquierda 
+	
+		*Respuesta = 450 * 10^3*
 
-	3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
+	3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda 
+	
+		*Respuesta = 12.04 * 10^12*
    
 	
 **15. Exprese cada número en notación de ingeniería:**
 
-	1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
+	1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). 
+	Por tanto se multiplica por 10 elevado a la -6 
+	
+		*Respuesta = 345 * 10^-6*
 
-	2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
+	2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceros) 
+	
+		*Respuesta = 25 * 10^-3*
 
-	3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
+	3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceros) 
+		
+		*Respuesta = 1.29 * 10^-9*
    
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 	
-	1. (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 
-	y se pone la potencia de 10 original
+	1. (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, 
+	por lo que solo se suman los números sin sus potencias de diez 
+	==> 2.5 + 4.6 = 7.1  y se pone la potencia de 10 original
 	
 		*Respuesta = 7.1 * 10^-3*
 
-	2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 
-	y se pone la potencia de 10 original
+	2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, 
+	por lo que solo se suman los números sin sus potencias de diez ==> 
+	68 + 33 = 101 y se pone la potencia de 10 original
 	
 		*Respuesta = 101 * 10^6*
 
-	3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . 
-	Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta 
-	queda de la siguiente manera:
+	3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. 
+	Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . 
+	Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . 
+	Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
 	
 		*Respuesta = 1.50 * 10^6*
    
@@ -195,18 +212,21 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-	1. 0.000345 ==> su notación científica es 345 * 10^-6 ==> el prefijo de la potencia 10^-6 es "micro" y su símbolo es la letra ¨u¨ ==> 
-	se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
+	1. 0.000345 ==> su notación científica es 345 * 10^-6 
+	==> el prefijo de la potencia 10^-6 es "micro" y su símbolo es la letra ¨u¨ 
+	==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
 		*Respuesta = 345 uA*
 
-	2. 0.025 ==> su notación científica es 25 * 10^-3 ==> el prefijo de la potencia 10^-3 es "mili"  y su símbolo es la letra ¨m¨ ==> 
-	se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
+	2. 0.025 ==> su notación científica es 25 * 10^-3 
+	==> el prefijo de la potencia 10^-3 es "mili"  y su símbolo es la letra ¨m¨ 
+	==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 		
 		*Respuesta = 25 mA*
 
-	3. 0.00000000129 = su notación científica es 129 * 10^-9 ==> el prefijo de la potencia 10^-9 es "nano"  y su símbolo es la letra ¨n¨ ==> 
-	se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
+	3. 0.00000000129 = su notación científica es 129 * 10^-9 
+	==> el prefijo de la potencia 10^-9 es "nano"  y su símbolo es la letra ¨n¨ 
+	==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
 		*Respuesta = 1.29 nA*
    
@@ -238,8 +258,10 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 		*Respuesta = 3.3 * 10^9 Hz*
 
-	3. 280 nW ==> La "n" significa "nano" y su potencia es 10^-9 ==> 280 * 10^-9 => Transformando => 
-	2.8 * 10^-7 W , entonces:
+	3. 280 nW ==> La "n" significa "nano" y su potencia es 10^-9 
+	==> 280 * 10^-9 
+	=> Transformando 
+	=> 2.8 * 10^-7 W , entonces:
 	
 		*Respuesta = 2.8 * 10^-7 W*
 

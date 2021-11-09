@@ -423,10 +423,15 @@ Pablo
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 
+<p align=center>
 
+![31](https://user-images.githubusercontent.com/93396250/140857410-c6163bd2-d46b-4fe5-968d-07587f1f0d9e.jpg)
 
+	
 **33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**
 
+
+![33](https://user-images.githubusercontent.com/93396250/140857420-9150554b-7aaf-48e2-9343-7db0040e3c3a.JPG)
 
 
 **35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**

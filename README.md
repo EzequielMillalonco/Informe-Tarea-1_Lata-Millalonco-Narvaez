@@ -254,24 +254,37 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 ![27 1](https://user-images.githubusercontent.com/93834732/140670690-efe544b9-c89b-4edd-999b-79f8bb4b2b5d.PNG)
 
-   b) 3200 microwatts a miliwatts
+	b) 3200 microwatts a miliwatts
    
 ![27 2](https://user-images.githubusercontent.com/93834732/140670934-4e2a7cd8-ed62-4f0d-add6-37a94ca820d7.PNG)
 
-   c) 5000 kV a megavolts 
+	c) 5000 kV a megavolts 
  
 ![27 3](https://user-images.githubusercontent.com/93834732/140674068-bf137594-921f-44e4-9a46-a5af08411353.PNG)
 
-   d)  10 MW a kilowatts 
+	d)  10 MW a kilowatts 
 
 ![Captura](https://user-images.githubusercontent.com/93834732/140675238-7d813f8d-b9d9-4156-a61c-20c2acf936e3.PNG)
 
 
 *29. Sume las siguientes cantidades*
    
-   a) 50mA + 680 micro Amperios
+	a) 50mA + 680 micro Amperios
    
-![29 1](https://user-images.githubusercontent.com/93834732/140…
+![29 1](https://user-images.githubusercontent.com/93834732/140675536-dc89d8e7-4620-4e1c-ac70-069fd88ae643.PNG)
+
+	b) 120 kilo Ohmios + 2.2 Mega Ohmios
+	
+	Se trasnforma de Kilo Ohmios a Mega Ohmios y se realiza la operacion
+
+![29 3](https://user-images.githubusercontent.com/93834732/140675755-078c4a2d-3a97-475d-a806-3fbf826a34f6.PNG)
+
+	c) 0.02 micro Faradios + 3300 pico Faradios
+	
+	Se trasnforma de pico faradios a micro faradios y se realiza la operacion
+
+![29 2](https://user-images.githubusercontent.com/93834732/140676062-af1698be-d438-4df1-b5f4-947481b56641.PNG)
+	
 		
 ### CAPÍTULO 2: Problemas (pag. 64)
 	

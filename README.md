@@ -130,15 +130,15 @@ Fidel
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-   (a) (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias ==> 2.5 + 4.6 = 7.1 y se pone la potencia de 10 original
+   (a) (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 y se pone la potencia de 10 original
    
    *Respuesta = 7.1 * 10^-3
 
-   (b) (68 * 106 ) + (33 * 106) = 
+   (b) (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 y se pone la potencia de 10 original
    
    *Respuesta = 101 * 10^6
 
-   (c) (1.25 * 106) + (250 * 103) = 
+   (c) (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias
    
    *Respuesta = 1.50 * 10^6
    

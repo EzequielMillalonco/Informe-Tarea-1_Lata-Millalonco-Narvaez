@@ -372,6 +372,7 @@ Pablo
 	
 	4.7 KΩ
 
+		
 		SECCIÓN 2–6 El circuito eléctrico
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**

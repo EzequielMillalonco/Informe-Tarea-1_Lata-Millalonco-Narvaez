@@ -473,13 +473,32 @@ Pablo
 
 **43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 
+	El voltaje es de 125 V
 	
+![image](https://user-images.githubusercontent.com/93396250/140867275-96bfb01c-bade-49de-88f1-2f8e0cb28dc6.png)
+
 	
 **45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:**
+	
+	(a) manecilla en 2, ajuste de intervalo en *10
+		R: La resistencia es de 20 Ω
+	(b) manecilla en 15, ajuste de intervalo en *100,000
+		R: La resistencia es de 1.50 MΩ
+	(c) manecilla en 45, ajuste de intervalo en *100
+		R: La resistencia es de 4500 Ω
 
 **47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.**
 	
+	(a) I1 (b) V1 
 	
+![47 A yB](https://user-images.githubusercontent.com/93396250/140868353-5bd862e2-347b-4523-809e-46f4f8f3e372.jpg)
+
+	
+	(c) R1
+	 Para medir la resistencia se conecta entre los dos extremos de la misma, estando ésta desconectada del circuito eléctrico.
+	
+![47 c](https://user-images.githubusercontent.com/93396250/140868894-b49e18b1-910d-418e-b40d-d86ac465bac3.jpg)
+
 
 ## 4.	VIDEO
 

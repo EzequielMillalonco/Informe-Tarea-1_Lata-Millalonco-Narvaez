@@ -113,35 +113,34 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-(a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = *89 * 10^3
+1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
 
-   (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = *450 * 10^3
+2. 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
 
-   (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = *12.04 * 10^12
+3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
    
-   
-
+	
 **15. Exprese cada número en notación de ingeniería:**
 
-   (a) 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = *345 * 10^-6
+1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = *345 * 10^-6
 
-   (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = *25 * 10^-3
+2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = *25 * 10^-3
 
-   (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = *1.29 * 10^-9
+3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = *1.29 * 10^-9
    
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
-
-   (a) (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 y se pone la potencia de 10 original
+	
+1. (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 y se pone la potencia de 10 original
    
    *Respuesta = 7.1 * 10^-3
 
-   (b) (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 y se pone la potencia de 10 original
+2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 y se pone la potencia de 10 original
    
    *Respuesta = 101 * 10^6
 
-   (c) (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
+3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
    
    *Respuesta = 1.50 * 10^6
    
@@ -149,41 +148,41 @@ Fidel
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-   (a) 50 / (2.2 * 10^3) = 22.7 * 10^-3
+1. 50 / (2.2 * 10^3) = 22.7 * 10^-3
 
-   (b) (5 * 10^3) / (25 * 10^-6) = 200 * 10^6
+2. (5 * 10^3) / (25 * 10^-6) = 200 * 10^6
 
-   (c) 560 * 10^3 / (660 * 10^3) = 848 * 10^-3
+3. 560 * 10^3 / (660 * 10^3) = 848 * 10^-3
    
    
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-   (a) 0.000345 = 345 mA
+1. 0.000345 = 345 mA
 
-   (b) 0.025 = 25 mA
+2. 0.025 = 25 mA
 
-   (c) 0.00000000129 = 1.29 nA
+3. 0.00000000129 = 1.29 nA
    
    
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-   (a) 3 * 10^-6 F = 3 mF
+1. 3 * 10^-6 F = 3 mF
 
-   (b) 3.3 * 10^6 Æ = 3.3 MÆ
+2. 3.3 * 10^6 Æ = 3.3 MÆ
 
-   (c) 350 * 10^-9 A = 350 nA 
+3. 350 * 10^-9 A = 350 nA 
    
 
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
-   (a) 7.5 pA = 7.5 * 10^-12 A
+1. 7.5 pA = 7.5 * 10^-12 A
 
-   (b) 3.3 GHz = 3.3 * 10^9 Hz
+2. 3.3 GHz = 3.3 * 10^9 Hz
 
-   (c) 280 nW = 2.8 * 10^-7 W
+3. 280 nW = 2.8 * 10^-7 W
    
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas

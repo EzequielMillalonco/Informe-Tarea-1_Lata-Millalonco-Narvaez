@@ -422,29 +422,37 @@ Pablo
 #### <p align=center> SECCIÓN 2–6 El circuito eléctrico
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
-
+	
 <p align=center> Respuesta: A través de la lámpara 2
-
+		
 ![31](https://user-images.githubusercontent.com/93396250/140863057-a7c2b8ef-e489-48cc-83c9-9b16883598d5.JPG)
 
 	
 **33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**
 
 <p align=center> Respuesta: Circuito (b)
-	
+		
 ![33](https://user-images.githubusercontent.com/93396250/140857420-9150554b-7aaf-48e2-9343-7db0040e3c3a.JPG)
 
 
 **35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 	
+	Se tomara el camino de ¨VS1( tensión de salida) conectada a R1(resistencia) y VS2 conectada a R2¨. 
+	Para construir el circuito necesitaremos 2 fuentes de corriente, 2 resistores y 1 interruptor del tipo doble polo doble tiro. 
+	Además todas estan conectadas a tierra, creando asi una conexión equipotencial.
+
 ![35](https://user-images.githubusercontent.com/93396250/140863190-01d83f71-ba55-467c-9a6f-03e8e72b5d46.jpg)
-	
 	
 	
 #### <p align=center> SECCIÓN 2–7 Mediciones de circuito básicas
 
 
 **37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**
+
+	El voltaje se mide con un Voltímetro conectado en paralelo.
+	La corriente se mide con un Amperímetro conectado en serie.
+	
+	![37](https://user-images.githubusercontent.com/93396250/140864714-d933002c-dc52-47e3-9938-2e4b6a9f894b.JPG)
 
 
 

@@ -112,29 +112,35 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-   (a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
+   (a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = *89 * 10^3
 
-   (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
+   (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = *450 * 10^3
 
-   (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
+   (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = *12.04 * 10^12
    
 
 **15. Exprese cada número en notación de ingeniería:**
 
-   (a) 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
+   (a) 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = *345 * 10^-6
 
-   (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
+   (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = *25 * 10^-3
 
-   (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
+   (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = *1.29 * 10^-9
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-   (a) (2.5 * 10-3) + (4.6 * 10-3) = 7.1 * 10^-3
+   (a) (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los
+   
+   *Respuesta = 7.1 * 10^-3
 
-   (b) (68 * 106 ) + (33 * 106) = 101 * 10^6
+   (b) (68 * 106 ) + (33 * 106) = 
+   
+   *Respuesta = 101 * 10^6
 
-   (c) (1.25 * 106) + (250 * 103) = 1.50 * 10^6
+   (c) (1.25 * 106) + (250 * 103) = 
+   
+   *Respuesta = 1.50 * 10^6
    
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**

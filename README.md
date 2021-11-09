@@ -559,7 +559,7 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 **39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
 	
-	Cuando el interruptor está en la posición 1 los voltímetros(medidores) indicaran que V1 = 0 V y V2 = V
+	Cuando el interruptor está en la posición 1 los voltímetros(medidores) indicaran que V1 = 0 V y V2 = Vs
 	Cuando el interruptor está en la posición 2 los voltímetros(medidores) indicaran que V1 = VS y V2 = 0 V
 	
 ![2 70](https://user-images.githubusercontent.com/93396250/140864866-0f82de2d-cde6-489f-9f27-3a6fea35f433.JPG)

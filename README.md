@@ -146,31 +146,31 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). 
 	Por tanto se multiplica por 10 elevado a la 3 
 	
-		*Respuesta = 89 * 10^3*
+		Respuesta = 89 * 10^3 
 
 	2. 450,000 = la coma se recorre 3 espacios hacia la izquierda 
 	
-		*Respuesta = 450 * 10^3*
+		Respuesta = 450 * 10^3
 
 	3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda 
 	
-		*Respuesta = 12.04 * 10^12*
-   
+		Respuesta = 12.04 * 10^12
+	
 	
 **15. Exprese cada número en notación de ingeniería:**
 
 	1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). 
 	Por tanto se multiplica por 10 elevado a la -6 
 	
-		*Respuesta = 345 * 10^-6*
+		Respuesta = 345 * 10^-6
 
 	2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceros) 
 	
-		*Respuesta = 25 * 10^-3*
+		Respuesta = 25 * 10^-3
 
 	3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceros) 
 		
-		*Respuesta = 1.29 * 10^-9*
+		Respuesta = 1.29 * 10^-9
    
    
 
@@ -180,20 +180,20 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	por lo que solo se suman los números sin sus potencias de diez 
 	==> 2.5 + 4.6 = 7.1  y se pone la potencia de 10 original
 	
-		*Respuesta = 7.1 * 10^-3*
+		Respuesta = 7.1 * 10^-3
 
 	2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, 
 	por lo que solo se suman los números sin sus potencias de diez ==> 
 	68 + 33 = 101 y se pone la potencia de 10 original
 	
-		*Respuesta = 101 * 10^6*
+		Respuesta = 101 * 10^6
 
 	3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. 
 	Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . 
 	Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . 
 	Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
 	
-		*Respuesta = 1.50 * 10^6*
+		Respuesta = 1.50 * 10^6
    
    
 
@@ -201,15 +201,15 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 
 	1. 50 / (2.2 * 10^3) ==> 50 * 10^0 / 2.2 * 10^3 ==> (50/2) * (10^0-3) ==> 22.72 * 10^-3  
 
-		*Respuesta = 22.7 * 10^-3*
+		Respuesta = 22.7 * 10^-3
 
 	2. (5 * 10^3) / (25 * 10^-6) ==> (5/25) * (10^3-(-6)) ==> 0.2 * 10^9 ==> Transformar a una potencia de diez menor, entonces:
 	
-		*Respuesta = 200 * 10^6*
+		Respuesta = 200 * 10^6
 
 	3. 560 * 10^3 / (660 * 10^3) = (560/660) * (10^3-3) ==> 0.84 * 10^0 ==> Transformar a una notación científica, entonces: 
 	
-		*Respuesta = 848 * 10^-3*
+		Respuesta = 848 * 10^-3
    
    
 
@@ -219,35 +219,35 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	==> el prefijo de la potencia 10^-6 es "micro" y su símbolo es la letra ¨u¨ 
 	==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
-		*Respuesta = 345 uA*
+		Respuesta = 345 uA
 
 	2. 0.025 ==> su notación científica es 25 * 10^-3 
 	==> el prefijo de la potencia 10^-3 es "mili"  y su símbolo es la letra ¨m¨ 
 	==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 		
-		*Respuesta = 25 mA*
+		Respuesta = 25 mA
 
 	3. 0.00000000129 = su notación científica es 129 * 10^-9 
 	==> el prefijo de la potencia 10^-9 es "nano"  y su símbolo es la letra ¨n¨ 
 	==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
-		*Respuesta = 1.29 nA*
-   
+		Respuesta = 1.29 nA
+  
    
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
 	1. 3 * 10^-6 F ==> la potencia 10^-6 tiene su prefijo "micro" y su simbología es la letra ¨u¨ , entonces:
 	
-		*Respuesta = 3 uF*
+		Respuesta = 3 uF
 
 	2. 3.3 * 10^6 Ω = la potencia 10^6 tiene su prefijo "mega" y su simbología es la letra ¨M¨ , entonces:
 	
-		*Respuesta = 3.3 MΩ*
+		Respuesta = 3.3 MΩ
 
 	3. 350 * 10^-9 A = la potencia 10^-9 tiene su prefijo "nano" y su simbología es la letra ¨n¨ , entonces:
 	
-		*Respuesta = 350 nA*
+		Respuesta = 350 nA
    
 
 
@@ -255,18 +255,18 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
    
 	1. 7.5 pA ==> La "p" significa "Pico" y su potencia es 10^-12, entonces: 
 		
-		*Respuesta = 7.5 * 10^-12 A*
+		Respuesta = 7.5 * 10^-12 A
 
 	2. 3.3 GHz ==> La "G" significa "Giga" y su potencia es 10^9, entonces:
 	
-		*Respuesta = 3.3 * 10^9 Hz*
+		Respuesta = 3.3 * 10^9 Hz
 
 	3. 280 nW ==> La "n" significa "nano" y su potencia es 10^-9 
 	==> 280 * 10^-9 
 	=> Transformando 
 	=> 2.8 * 10^-7 W , entonces:
 	
-		*Respuesta = 2.8 * 10^-7 W*
+		Respuesta = 2.8 * 10^-7 W
 
    
 	
@@ -450,19 +450,21 @@ Pablo
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 
-<p align=center>
+<p align=center> Respuesta: A través de la lámpara 2
 
 ![31](https://user-images.githubusercontent.com/93396250/140857410-c6163bd2-d46b-4fe5-968d-07587f1f0d9e.jpg)
 
 	
 **33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**
 
-
+<p align=center> Respuesta: Circuito (b)
+	
 ![33](https://user-images.githubusercontent.com/93396250/140857420-9150554b-7aaf-48e2-9343-7db0040e3c3a.JPG)
 
 
 **35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 	
+![35](https://user-images.githubusercontent.com/93396250/140860099-0f0d1a50-f529-4535-a435-958ecd749fa7.jpg)
 	
 	
 #### <p align=center> SECCIÓN 2–7 Mediciones de circuito básicas

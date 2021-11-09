@@ -139,18 +139,18 @@ Fidel
    
    *Respuesta = 101 * 10^6
 
-   (c) (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias
+   (c) (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
    
    *Respuesta = 1.50 * 10^6
    
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-   (a) 50 , (2.2 * 103) = 22.7 * 10^-3
+   (a) 50 / (2.2 * 10^3) = 22.7 * 10^-3
 
-   (b) (5 * 103) , (25 * 10-6) = 200 * 10^6
+   (b) (5 * 10^3) / (25 * 10^-6) = 200 * 10^6
 
-   (c) 560 * 103 , (660 * 103) = 848 * 10^-3
+   (c) 560 * 10^3 / (660 * 10^3) = 848 * 10^-3
    
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**

@@ -248,7 +248,7 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 #### <p align=center> SECCIÓN 1–4 Conversiones de unidades métricas
 	
 
-*27. Realice las conversiones indicadas:*
+**27. Realice las conversiones indicadas:**
 	
 	a) 5mA a microamperes
 	
@@ -267,7 +267,7 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 ![Captura](https://user-images.githubusercontent.com/93834732/140675238-7d813f8d-b9d9-4156-a61c-20c2acf936e3.PNG)
 
 
-*29. Sume las siguientes cantidades*
+**29. Sume las siguientes cantidades**
    
   	a) 50mA + 680 micro Amperios
    

@@ -22,7 +22,7 @@ En 1875 se crea el ¨Système International d’Unités¨ para establecer están
 
 En SI (abreviatura de Système International d’Unités) se basa en 7 unidades base/fundamentales y 2 complementarias. La unidad eléctrica fundamental es el ampere(A) el cual se utiliza para medir corriente eléctrica(I), ademas este utiliza su definicion en funcion del tiempo(t)(el segundo). Las demás medidas utilizadas en electronica se llaman unidades derivadas ya que utilizan combinaciones de unidades fundamentales, por ejemplo, el volt(V) se define en función de m^2 * kg * s^-3 * A^-1, por tanto es una unidad derivada. **INSERTAR TABLA 1 AQUI**
 
-Se utiliza un símbolo para representar el nombre de la cantidad y otro par aidentificar la unidad de medicion. Por ejemplo, P significa Potencia y la unidad de potencia es el watt representado por la letra W.
+Se utiliza un símbolo para representar el nombre de la cantidad y otro par aidentificar la unidad de medicion. Por ejemplo, P significa Potencia y la unidad de potencia es el watt representado por la letra W. 
         
 		1–2 Notación científica
 	

@@ -502,8 +502,12 @@ Pablo
 
 
 ## 4.	VIDEO
-
-
+	
+	Link del video ¨Tarea #1 Fundamentos de Circuitos Eléctricos¨, en dondé se explican 4 ejercicios vistos en la Tarea #1 :
+	
+	https://youtu.be/2iV6VzArCmY
+	
+	
 ## 5.	CONCLUSIONES
         
 **a.**

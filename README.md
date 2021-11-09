@@ -85,6 +85,7 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 ### CAPÍTULO 1: Problemas (pag. 13)
 	
+	
 #### <p align=center> SECCIÓN 1–2 Notación científica
 	
 **1. La notación científica utiliza potencias de diez.**
@@ -136,6 +137,8 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	c) (2.2 * 10^(-9))(7 * 10^(-6)) = Se multiplican los numeros y se suman los coeficientes, obteniendo 15.4 * 10^(-15) y esto es 1.54 * 10^(-14)
 	
 
+	
+	
 #### <p align=center> SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
@@ -266,6 +269,8 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 		*Respuesta = 2.8 * 10^-7 W*
 
    
+	
+	
 	
 #### <p align=center> SECCIÓN 1–4 Conversiones de unidades métricas
 	

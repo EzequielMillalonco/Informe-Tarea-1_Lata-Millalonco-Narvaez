@@ -456,16 +456,25 @@ Pablo
 
 **39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
 	
-	Cuando el medidor está en la posición 1 se puede observar que este indica que V1 = 0 V y en V2 = V
-	Cuando el medidor está en la posición 2 se puede observar que este indica que V1 = VS y V2 = 0 V
+	Cuando el interruptor está en la posición 1 los voltímetros(medidores) indicaran que V1 = 0 V y V2 = V
+	Cuando el interruptor está en la posición 2 los voltímetros(medidores) indicaran que V1 = VS y V2 = 0 V
 	
 ![2 70](https://user-images.githubusercontent.com/93396250/140864866-0f82de2d-cde6-489f-9f27-3a6fea35f433.JPG)
 	
 
 **41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
+	
+	El voltaje se mide con un Voltímetro conectado en paralelo.
+	La corriente se mide con un Amperímetro conectado en serie.
+	Sabiendo esto se puede proceder a la colocación de los mismos.
+	
+![41](https://user-images.githubusercontent.com/93396250/140866347-7379a642-a6f3-4fba-9597-f792d88b6cfe.jpg)
 
-4**3. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
 
+**43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?**
+
+	
+	
 **45. Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de ohmmetro:**
 
 **47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.**

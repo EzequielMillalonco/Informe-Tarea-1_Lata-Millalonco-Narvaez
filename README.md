@@ -113,20 +113,32 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
+1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3, entonces:
+	
+	*Respuesta = 89 * 10^3*
 
-2. 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
+2. 450,000 = la coma se recorre 3 espacios hacia la izquierda, entonces:
+	
+	*Respuesta = 450 * 10^3*
 
-3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
+3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda, entonces: 
+	
+	*Respuesta = 12.04 * 10^12*
    
 	
 **15. Exprese cada número en notación de ingeniería:**
 
-1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
+1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6, entonces: 
+	
+	*Respuesta = 345 * 10^-6*
 
-2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
+2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros), entonces:
+	
+	*Respuesta = 25 * 10^-3*
 
-3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
+3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros), entonces:  
+	
+	*Respuesta = 1.29 * 10^-9*
    
    
 

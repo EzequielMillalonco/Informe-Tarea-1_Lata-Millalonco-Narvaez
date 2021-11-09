@@ -196,15 +196,15 @@ Fidel
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
-1. 7.5 pA = 
+1. 7.5 pA ==> La "p" significa "Pico" y su potencia es 10^-12, entonces: 
 	
 	*Respuesta = 7.5 * 10^-12 A*
 
-2. 3.3 GHz = 
+2. 3.3 GHz ==> La "G" significa "Giga" y su potencia es 10^9, entonces:
 	
 	*Respuesta = 3.3 * 10^9 Hz*
 
-3. 280 nW = 
+3. 280 nW ==> La "n" significa "nano" y su potencia es 10^-9 ==> 280 * 10^-9 => Transformando => 2.8 * 10^-7 W , entonces:
 	
 	*Respuesta = 2.8 * 10^-7 W*
    

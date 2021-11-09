@@ -14,7 +14,7 @@ Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctric
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
-### CAPÍTULO 1: Cantidades y unidades
+### <p align=center>CAPÍTULO 1: Cantidades y unidades
 	
         	1–1 Unidades de medición
 	
@@ -57,7 +57,7 @@ A menudo resulta más útil convertir una cantidad que tiene un determinado pref
 	3. El número de espacios que la coma debe recorrer está definido por la diferencia entre las potencias de 10 de las unidades que se quiere convertir.
 
 	
-### CAPÍTULO 2: Voltaje, corriente y resistencia
+### <p align=center> CAPÍTULO 2: Voltaje, corriente y resistencia
 	
 		2–1 Estructura atómica
 
@@ -103,7 +103,7 @@ Fidel
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
-### CAPÍTULO 1: Problemas (pag. 13)
+### <p align=center> CAPÍTULO 1: Problemas (pag. 13)
 	
 		SECCIÓN 1–2 Notación científica
 	
@@ -113,11 +113,12 @@ Fidel
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-   (a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = *89 * 10^3
+(a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = *89 * 10^3
 
    (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = *450 * 10^3
 
    (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = *12.04 * 10^12
+   
    
 
 **15. Exprese cada número en notación de ingeniería:**
@@ -127,6 +128,7 @@ Fidel
    (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = *25 * 10^-3
 
    (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = *1.29 * 10^-9
+   
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
@@ -143,6 +145,7 @@ Fidel
    
    *Respuesta = 1.50 * 10^6
    
+   
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
@@ -151,6 +154,7 @@ Fidel
    (b) (5 * 10^3) / (25 * 10^-6) = 200 * 10^6
 
    (c) 560 * 10^3 / (660 * 10^3) = 848 * 10^-3
+   
    
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
@@ -161,6 +165,7 @@ Fidel
 
    (c) 0.00000000129 = 1.29 nA
    
+   
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
@@ -170,6 +175,7 @@ Fidel
 
    (c) 350 * 10^-9 A = 350 nA 
    
+
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
@@ -184,7 +190,7 @@ Fidel
 	
 Pablo	
 		
-### CAPÍTULO 2: Problemas (pag. 64)
+### <p align=center> CAPÍTULO 2: Problemas (pag. 64)
 	
 		SECCIÓN 2–2 Carga eléctrica
 	

@@ -80,25 +80,6 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 ![Blank diagram (2)](https://user-images.githubusercontent.com/93826527/140829036-46b4e8b8-d592-408d-90dd-ff4937e62c30.png)
 
 
-		2–4 Fuentes de voltaje y de corriente 
-        
-Fidel        
-        
-		2–5 Resistores 
-        
-Fidel        
-        
-		2–6 El circuito eléctrico 
-        
-Fidel        
-        
-		2–7 Mediciones de circuito básicas 
-        
-Fidel        
-        
-		2–8 Seguridad eléctrica: Una aplicación de circuito 
-
-Fidel
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	

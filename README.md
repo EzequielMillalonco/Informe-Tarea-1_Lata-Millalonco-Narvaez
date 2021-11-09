@@ -14,7 +14,7 @@ Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctric
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
-### <p align=center>CAPÍTULO 1: Cantidades y unidades
+### CAPÍTULO 1: Cantidades y unidades
 	
         	1–1 Unidades de medición
 	
@@ -36,8 +36,7 @@ Se utiliza un símbolo para representar el nombre de la cantidad y otro para ide
 	
 La notación científica es muy util al momento de representar números grandes y pequeños ademas de realizar calculos que usen dichas cantidades. Se representa como el producto de un número y una potencia de diez. Por ejemplo, el 450000000 se representaria como 4.5 * 10^8 y el 0.0000056 como 5.6 * 10^-6 . A continuación se encuentra un mapa conceptual describiendo las operaciones básicas con notación científica.
 
-![1 2](https://user-images.githubusercontent.com/93396250/140840206-2fcbe338-c87c-4b4e-a47a-7002b35c98ac.png)
-
+![Jsjsjs](https://user-images.githubusercontent.com/93396250/140695337-f37fb022-df6c-4bf6-8fa0-3b04c9e99136.png)
 
 
         	1–3 Notación de ingeniería y prefijos métricos
@@ -57,7 +56,7 @@ A menudo resulta más útil convertir una cantidad que tiene un determinado pref
 	3. El número de espacios que la coma debe recorrer está definido por la diferencia entre las potencias de 10 de las unidades que se quiere convertir.
 
 	
-### <p align=center> CAPÍTULO 2: Voltaje, corriente y resistencia
+### CAPÍTULO 2: Voltaje, corriente y resistencia
 	
 		2–1 Estructura atómica
 
@@ -103,129 +102,128 @@ Fidel
 
 ## 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 	
-### <p align=center> CAPÍTULO 1: Problemas (pag. 13)
+### CAPÍTULO 1: Problemas (pag. 13)
 	
 		SECCIÓN 1–2 Notación científica
 	
-Fidel
+**1. La notación científica utiliza potencias de diez.**
+	
+	Verdadero
+	
+**3. Exprese los siguientes números en notación científica:**
+
+	(a) 4350 = la coma se recorre 3 espacios hacia la izquierda. Por tanto se multiplica 4.35 * 10^3 
+	
+	(b) 12,010 = la coma se recorre 4 espacios hacia la izquierda. Por tanto se multiplica 1.201 * 10^4
+	
+	(c) 29,000,000 = la coma se recorre 7 espacios hacia la izquierda. Por tanto se multiplica 2.9 * 10^7
+	
+**5. Realice las siguientes operaciones:**
+
+	(a) (1 * 10^5) + (2 * 10^5) = Tienen potencias iguales, por lo que se suma 1+2 y el resultado es 3 * 10^5
+	
+	(b) (3 * 10^6) (2 * 10^4) = Se multiplican los numeros y se suman las potencias, dando como resultado 6 * 10^10
+	
+	(c) (8 * 10^3) / (4 * 10^2) = Se dividen los numeros y se restan las potencias, dando como resultado 2 * 10^1
+	
+	(d) (2.5 * 10^(-6)) - (1.3 * 10^(-7)) = Se igualan las potencias, siendo estas (25 * 10^(-7)) - (1.3 * 10^(-7)) y se procede a restar los numeros, dando como resultado               23.7 * 10^(-7)
+	
+**7. Exprese cada uno de los números siguientes como un número decimal regular:**
+
+	a) 2.5 * 10^(-6) = La potencia representa el numero de espacios que recorrio la coma, en este caso hacia la derecha por ser negativo. Para lo cual haremos lo inverso,              recuperaremos los espacios y obtendremos 0.0000025
+	
+	b) 5.4 * 10^(-9) = La potencia representa el numero de espacios que recorrio la coma, en este caso hacia la derecha por ser negativo. Para lo cual haremos lo inverso,              recuperaremos los espacios y obtendremos 0.0000000054
+	
+	c) 1.0 * 10^1 = La potencia representa el numero de espacios que recorrio la coma, en este caso hacia la inzquierda por ser positivo. Para lo cual haremos lo inverso,              recuperaremos los espacios y obtendremos 10
+	
+**9. Sume los números siguientes:**
+
+	a) (9.2 *10^6) + (3.4 * 10^7) = Se iguala las potencias (92 * 10^6) + (34 * 10^6) y procedemos a sumar los numero, obteniendo 126 * 10^6 y eso es 1.26 * 10^8
+	
+	b) (5 * 10^3) + (8.5 * 10^(-1)) = Se iguala las potencias (50000 * 10^(-1)) + (8.5 * 10^(-1)) y procedemos a sumar los numero, obteniendo 5008.5 * 10^(-1) y eso es 	            
+	5.0085 * 10^2
+	
+	c) (5.6 * 10^(-8)) + (4.6 * 10^(-9)) = Se iguala las potencias (56 * 10^(-9)) + (4.6 * 10^(-9)) y procedemos a sumar los numero, obteniendo 60.6 * 10^(-9) y eso es 6.06            
+	* 10^(-8)
+	
+**11. Realice las siguientes multiplicaciones:**
+
+	a) (5 * 10^3)(4 * 10^5) = Se multiplican los numeros y se suman los coeficientes, obteniendo 20 * 10^8
+	
+	b) (1.2 * 10^12)(3 * 10^2) = Se multiplican los numeros y se suman los coeficientes, obteniendo 3.6 * 10^14
+	
+	c) (2.2 * 10^(-9))(7 * 10^(-6)) = Se multiplican los numeros y se suman los coeficientes, obteniendo 15.4 * 10^(-15) y esto es 1.54 * 10^(-14)
 	
 		SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 
-1. 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3, entonces:
-	
-	*Respuesta = 89 * 10^3*
+   (a) 89,000 = la coma se recorre 3 espacios hacia la izquierda (se quitan 3 ceros). Por tanto se multiplica por 10 elevado a la 3 = 89 * 10^3
 
-2. 450,000 = la coma se recorre 3 espacios hacia la izquierda, entonces:
-	
-	*Respuesta = 450 * 10^3*
+   (b) 450,000 = la coma se recorre 3 espacios hacia la izquierda = 450 * 10^3
 
-3. 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda, entonces: 
-	
-	*Respuesta = 12.04 * 10^12*
+   (c) 12,040,000,000,000 = la coma se recorre 12 espacios hacia la izquierda = 12.04 * 10^12
    
-	
+
 **15. Exprese cada número en notación de ingeniería:**
 
-1. 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6, entonces: 
-	
-	*Respuesta = 345 * 10^-6*
+   (a) 0.000345 = la coma se recorre 6 espacios hacia la derecha (se aumentan 6 ceros). Por tanto se multiplica por 10 elevado a la -6 = 345 * 10^-6
 
-2. 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros), entonces:
-	
-	*Respuesta = 25 * 10^-3*
+   (b) 0.025 = la coma se recorre 3 espacios hacia la derecha (se aumentan 3 ceeros) = 25 * 10^-3
 
-3. 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros), entonces:  
-	
-	*Respuesta = 1.29 * 10^-9*
-   
+   (c) 0.00000000129 = la coma se recorre 9 espacios hacia la derecha (se aumentan 9 ceeros) = 1.29 * 10^-9
    
 
 **17. Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
-	
-1. (2.5 * 10-3) + (4.6 * 10-3) = Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 2.5 + 4.6 = 7.1 y se pone la potencia de 10 original
-	
-	*Respuesta = 7.1 * 10^-3*
 
-2. (68 * 10^6 ) + (33 * 10^6) =  Las potencias estan igualadas, por lo que solo se suman los números sin sus potencias de diez ==> 68 + 33 = 101 y se pone la potencia de 10 original
-	
-	*Respuesta = 101 * 10^6*
+   (a) (2.5 * 10-3) + (4.6 * 10-3) = 7.1 * 10^-3
 
-3. (1.25 * 10^6) + (250 * 10^3) = Se deben igualar las potencias. Por tanto, se transforma el  250 * 10^**3** a  0.25 * 10^**6** . Con las potencias igualadas se puede realizar la suma de 1.25 + 0.25 = 1.50 . Se restablece la potencia de diez con lo que la respuesta queda de la siguiente manera:
-	
-	*Respuesta = 1.50 * 10^6*
-   
+   (b) (68 * 106 ) + (33 * 106) = 101 * 10^6
+
+   (c) (1.25 * 106) + (250 * 103) = 1.50 * 10^6
    
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-1. 50 / (2.2 * 10^3) ==> 50 * 10^0 / 2.2 * 10^3 ==> (50/2) * (10^0-3) ==> 22.72 * 10^-3  
+   (a) 50 , (2.2 * 103) = 22.7 * 10^-3
 
-	*Respuesta = 22.7 * 10^-3*
+   (b) (5 * 103) , (25 * 10-6) = 200 * 10^6
 
-2. (5 * 10^3) / (25 * 10^-6) ==> (5/25) * (10^3-(-6)) ==> 0.2 * 10^9 ==> Transformar a una potencia de diez menor, entonces:
-	
-	*Respuesta = 200 * 10^6*
-
-3. 560 * 10^3 / (660 * 10^3) = (560/660) * (10^3-3) ==> 0.84 * 10^0 ==> Transformar a una notación científica, entonces: 
-	
-	*Respuesta = 848 * 10^-3*
-   
+   (c) 560 * 103 , (660 * 103) = 848 * 10^-3
    
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-1. 0.000345 ==> su notación científica es 345 * 10^-6 ==> el prefijo de la potencia 10^-6 es "micro" y su símbolo es la letra ¨u¨ ==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
-	
-	*Respuesta = 345 uA*
+   (a) 0.000345 = 345 mA
 
-2. 0.025 ==> su notación científica es 25 * 10^-3 ==> el prefijo de la potencia 10^-3 es "mili"  y su símbolo es la letra ¨m¨ ==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
-	
-	*Respuesta = 25 mA*
+   (b) 0.025 = 25 mA
 
-3. 0.00000000129 = su notación científica es 129 * 10^-9 ==> el prefijo de la potencia 10^-9 es "nano"  y su símbolo es la letra ¨n¨ ==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
-	
-	*Respuesta = 1.29 nA*
-   
+   (c) 0.00000000129 = 1.29 nA
    
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-1. 3 * 10^-6 F ==> la potencia 10^-6 tiene su prefijo "micro" y su simbología es la letra ¨u¨ , entonces:
-	
-	*Respuesta = 3 uF*
+   (a) 3 * 10^-6 F = 3 mF
 
-2. 3.3 * 10^6 Ω = la potencia 10^6 tiene su prefijo "mega" y su simbología es la letra ¨M¨ , entonces:
-	
-	*Respuesta = 3.3 MΩ*
+   (b) 3.3 * 10^6 Æ = 3.3 MÆ
 
-3. 350 * 10^-9 A = la potencia 10^-9 tiene su prefijo "nano" y su simbología es la letra ¨n¨ , entonces:
-	
-	*Respuesta = 350 nA*
+   (c) 350 * 10^-9 A = 350 nA
    
-
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
    
-1. 7.5 pA ==> La "p" significa "Pico" y su potencia es 10^-12, entonces: 
-	
-	*Respuesta = 7.5 * 10^-12 A*
+   (a) 7.5 pA = 7.5 * 10^-12 A
 
-2. 3.3 GHz ==> La "G" significa "Giga" y su potencia es 10^9, entonces:
-	
-	*Respuesta = 3.3 * 10^9 Hz*
+   (b) 3.3 GHz = 3.3 * 10^9 Hz
 
-3. 280 nW ==> La "n" significa "nano" y su potencia es 10^-9 ==> 280 * 10^-9 => Transformando => 2.8 * 10^-7 W , entonces:
-	
-	*Respuesta = 2.8 * 10^-7 W*
+   (c) 280 nW = 2.8 * 10^-7 W
    
 	
 		SECCIÓN 1–4 Conversiones de unidades métricas
 	
 Pablo	
 		
-### <p align=center> CAPÍTULO 2: Problemas (pag. 64)
+### CAPÍTULO 2: Problemas (pag. 64)
 	
 		SECCIÓN 2–2 Carga eléctrica
 	
@@ -240,9 +238,159 @@ Pablo
 Pablo	
 	
 		SECCIÓN 2–5 Resistores
-Fidel
+
+**21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
+
+	a) rojo = 2 
 	
+	   violeta = 7 
+	   
+	   naranja = *1000
+	   
+	   oro = +/- 5%
+	   
+	   27 kΩ +/- 5%
+	   
+	b) cafe = 1
+	   
+	   gris = 8
+	   
+	   rojo = *100
+	   
+	   plata = +/- 10%
+	   
+	   1.8 kΩ +/- 10%
+	   
+**23. Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia:**
+
+	a) 330Ω 
 	
+	   Primer banda = Naranja 
+	   
+	   Segunda banda = Naranja
+	   
+	   # de ceros = Cafe
+	   
+	   Tolerancia = Dorado
+	   
+	b) 2.2 kΩ 
+	
+	   Primer banda = Rojo
+	   
+	   Segunda banda = Rojo
+	   
+	   # de ceros = Rojo
+	   
+	   Tolerancia = Dorado
+	   
+	c) 56 kΩ
+	
+	   Primer banda = Verde
+	   
+	   Segunda banda = Azul
+	   
+	   # de ceros = Naranja
+	   
+	   Tolerancia = Dorado
+	   
+	d) 100 kΩ
+	
+	   Primer banda = Cafe
+	   
+	   Segunda banda = Negro
+	   
+	   # de ceros = Amarillo
+	   
+	   Tolerancia = Dorado
+	   
+	e) 39 kΩ
+	
+	   Primer banda = Naranja
+	   
+	   Segunda banda = Blanco
+	   
+	   # de ceros = Naranja
+	   
+	   Tolerancia = Dorado
+	   
+**25. Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.**
+
+	a) 0.47 Ω 
+	
+	   Primer banda = Amarillo
+	   
+	   Segunda banda = Violeta
+	   
+	   # de ceros = Plateado
+	   
+	   Tolerancia = Dorado
+	   
+	b) 270 kΩ 
+	
+	   Primer banda = Rojo
+	   
+	   Segunda banda = Violeta
+	   
+	   # de ceros = Amarillo
+	   
+	   Tolerancia = Dorado
+	   
+	c) 5.1 MΩ 
+	
+	   Primer banda = Verde
+	   
+	   Segunda banda = Cafe
+	   
+	   # de ceros = Verde
+	   
+	   Tolerancia = Dorado
+	   
+**Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento.**
+
+	a) 14.7 kΩ
+	
+	   Primer banda = Cafe
+	   
+	   Segunda banda = Amarillo
+	   
+	   Tercera banda = Violeta
+	   
+	   # de ceros = Rojo
+	   
+	   Tolerancia = Cafe
+	   
+	   b) 39.2 Ω
+	
+	   Primer banda = Naranja
+	   
+	   Segunda banda = Blanco
+	   
+	   Tercera banda = Rojo
+	   
+	   # de ceros = Dorado
+	   
+	   Tolerancia = Cafe
+	   
+	   c) 9.76 kΩ
+	
+	   Primer banda = Blanco
+	   
+	   Segunda banda = Violeta
+	   
+	   Tercera banda = Azul
+	   
+	   # de ceros = Cafe
+	   
+	   Tolerancia = Cafe
+	   
+**29. ¿Cuál es la resistencia indicada por 4K7?**
+
+	Primer digito = 4
+	
+	Decimal = 7
+	
+	4.7 KΩ
+
 		SECCIÓN 2–6 El circuito eléctrico
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**

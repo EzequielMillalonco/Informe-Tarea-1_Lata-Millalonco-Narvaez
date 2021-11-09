@@ -437,7 +437,8 @@ Pablo
 
 **35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 	
-	Se tomara el camino de ¨VS1( tensión de salida) conectada a R1(resistencia) y VS2 conectada a R2¨. Para construir el circuito necesitaremos 2 fuentes de corriente, 
+	Primero se realiza la conexion de ¨VS1( tensión de salida) conectada a R1(resistencia) y VS2 conectada a R2¨ implementando un interruptor 
+	para que ahora el circuito sea ¨VS1 conectada a R2 y VS2 conectada a R1¨. Para construir el circuito necesitaremos 2 fuentes de corriente, 
 	2 resistores y 1 interruptor del tipo doble polo doble tiro. Además todas estan conectadas a tierra, creando asi una conexión equipotencial.
 
 ![35](https://user-images.githubusercontent.com/93396250/140863190-01d83f71-ba55-467c-9a6f-03e8e72b5d46.jpg)

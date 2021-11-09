@@ -452,7 +452,7 @@ Pablo
 
 <p align=center> Respuesta: A través de la lámpara 2
 
-![31](https://user-images.githubusercontent.com/93396250/140857410-c6163bd2-d46b-4fe5-968d-07587f1f0d9e.jpg)
+![31](https://user-images.githubusercontent.com/93396250/140860236-9799112a-3db6-4afe-8063-b0efeb21c84f.JPG)
 
 	
 **33. En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito.**

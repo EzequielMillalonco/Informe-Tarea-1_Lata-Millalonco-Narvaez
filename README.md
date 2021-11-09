@@ -247,21 +247,110 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 #### <p align=center> SECCIÓN 1–4 Conversiones de unidades métricas
 	
-Pablo	
+
+*27. Realice las conversiones indicadas:*
+	
+	a) 5mA a microamperes
+	
+![27 1](https://user-images.githubusercontent.com/93834732/140670690-efe544b9-c89b-4edd-999b-79f8bb4b2b5d.PNG)
+
+   b) 3200 microwatts a miliwatts
+   
+![27 2](https://user-images.githubusercontent.com/93834732/140670934-4e2a7cd8-ed62-4f0d-add6-37a94ca820d7.PNG)
+
+   c) 5000 kV a megavolts 
+ 
+![27 3](https://user-images.githubusercontent.com/93834732/140674068-bf137594-921f-44e4-9a46-a5af08411353.PNG)
+
+   d)  10 MW a kilowatts 
+
+![Captura](https://user-images.githubusercontent.com/93834732/140675238-7d813f8d-b9d9-4156-a61c-20c2acf936e3.PNG)
+
+
+*29. Sume las siguientes cantidades*
+   
+   a) 50mA + 680 micro Amperios
+   
+![29 1](https://user-images.githubusercontent.com/93834732/140…
 		
 ### CAPÍTULO 2: Problemas (pag. 64)
 	
 #### <p align=center> SECCIÓN 2–2 Carga eléctrica
 	
-Pablo
+*1.¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?*
+ 
+ 	Es de 4.64*10^(-18) C
+ 
+*3. ¿Cuántos coulombs de carga poseen 50*10^31 electrones?*	
+
+	Un coulomb equivale a 6.24*10^18 electrones
+
+![3](https://user-images.githubusercontent.com/93834732/140679859-afc8fc2f-c12b-4439-9e10-eac4a80b890b.PNG)
 	
 #### <p align=center> SECCIÓN 2–3 Voltaje, corriente y resistencia
 	
-Pablo	
+
+	*5. Determine el voltaje en cada uno de los siguientes casos:*
+
+   a) 10 J/C
+   
+![5 1](https://user-images.githubusercontent.com/93834732/140680262-936267e1-4866-4639-bdd4-4c968301256b.PNG)
+
+   b) 5 J/2 C
+   
+![5 2](https://user-images.githubusercontent.com/93834732/140680423-2f419fe5-5ace-4ea4-8641-cce3e6f5190c.PNG)
+
+   c) 100 J/25 C
+   
+![5 3](https://user-images.githubusercontent.com/93834732/140680487-cee9af33-6a40-4e00-ab18-a51b31677e54.PNG)
+
+**7.¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de
+un resistor?**
+
+Se divide la cantidad de Joules para la candidad de coulombs
+
+![7](https://user-images.githubusercontent.com/93834732/140680677-a9b06ed7-5bee-4637-86a0-18bb7b3b392d.PNG)
+
+**9.Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía
+calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
+
+Usando la formula de la intensidad y sabiendo que el tiempo es de 15 segundos, se puede despejar la cantidad de coulombs, usando los coulombs y teniendo la cantidad de Jouls, se puede calcular el voltaje
+
+![9](https://user-images.githubusercontent.com/93834732/140681474-3b88e173-4d3e-47b0-a751-e692228a47d7.PNG)
+
+*11.Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?*
+
+![11](https://user-images.githubusercontent.com/93834732/140682140-f634637d-19e0-4af0-9a89-4e86af1b3c36.PNG)
+
+*13.¿Cuántos coulombs pasan por un punto en 0.1 s cuando la corriente es de 1.5 A?*
+
+![13](https://user-images.githubusercontent.com/93834732/140681988-baf34eb4-c82f-4109-aa9c-bf8090c7cc96.PNG)
+
+*15.Determine la conductancia para cada uno de los siguientes valores de resistencia:*
+
+   a) 5 Ohmios
+
+![15 1](https://user-images.githubusercontent.com/93834732/140682261-84cfd7b8-3ff0-45fb-acff-4101ec7c4dcf.PNG)
+
+   b) 25 Ohmios
+
+![15 2](https://user-images.githubusercontent.com/93834732/140682331-bac6d4ba-b0c8-446c-90de-113e86d810b2.PNG)
+
+   c) 100 Ohmios
+  
+![15 3](https://user-images.githubusercontent.com/93834732/140682377-49725228-29d9-4fc8-868b-2cd7bb9157b6.PNG)
+	
+	
 	
 #### <p align=center> SECCIÓN 2–4 Fuentes de voltaje y de corriente
 	
-Pablo	
+*17.Enliste cuatro fuentes de voltaje comunes.*
+
+	Baterías, Termopares, Sensores Piezoeléctricos, Generador
+	
+*19.¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?.*
+
+	La principal diferencia es que esta fuente de potencia usa corriente alterna como fuente de energía, para luego transformarla en corriente directa
 	
 #### <p align=center> SECCIÓN 2–5 Resistores
 
@@ -512,11 +601,11 @@ https://youtu.be/2iV6VzArCmY
 	
 ## 5.	CONCLUSIONES
         
-**a.**
+En conclusión, podemos decir que la notación científica en la ingeniera es de suma utilidad ya que nos facilita el trabajo con números o muy grandes o muy pequeños, facilitando asi los cálculos matemáticos, gracias a esto se han podido crear los prefijos que se usan normalmente en ingeniera.
 
-**b.**
+Adicional a esto se ha podido identificar las partes más importantes de un circuito, tales como los conductores y las resistencias, etc. Así mismo se aprendió el código de colores de las resistencias el cual es útil a la hora de trabajar con resistencias específicas y poder identificarlas fácilmente.
 
-**c.**
+Finalmente se redescubrió los conceptos de átomo, carga eléctrica, voltaje, corriente y resistencia, fuente de voltaje, fuente de corriente, Tierra, etc. Los cuáles serán parte fundamental en el entendimiento de cómo trabajan los circuitos eléctricos y electrónicos
 
 ## 6.	BIBLIOGRAFÍA
 

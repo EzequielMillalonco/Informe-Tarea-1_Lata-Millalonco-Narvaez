@@ -148,15 +148,15 @@ Fidel
 
 **19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-1. 50 / (2.2 * 10^3) = 
+1. 50 / (2.2 * 10^3) ==> 50 * 10^0 / 2.2 * 10^3 ==> (50/2) * (10^0-3) ==> 22.72 * 10^-3  
 
 	*Respuesta = 22.7 * 10^-3*
 
-2. (5 * 10^3) / (25 * 10^-6) = 
+2. (5 * 10^3) / (25 * 10^-6) ==> (5/25) * (10^3-(-6)) ==> 0.2 * 10^9 ==> Transformar a una potencia de diez menor, entonces:
 	
 	*Respuesta = 200 * 10^6*
 
-3. 560 * 10^3 / (660 * 10^3) = 
+3. 560 * 10^3 / (660 * 10^3) = (560/660) * (10^3-3) ==> 0.84 * 10^0 ==> Transformar a una notación científica, entonces: 
 	
 	*Respuesta = 848 * 10^-3*
    
@@ -164,15 +164,15 @@ Fidel
 
 **21. Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.**
 
-1. 0.000345 = 
+1. 0.000345 ==> su notación científica es 345 * 10^-6 ==> el prefijo de la potencia 10^-6 es "micro" y su símbolo es la letra ¨u¨ ==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
-	*Respuesta = 345 mA*
+	*Respuesta = 345 uA*
 
-2. 0.025 = 
+2. 0.025 ==> su notación científica es 25 * 10^-3 ==> el prefijo de la potencia 10^-3 es "mili"  y su símbolo es la letra ¨m¨ ==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
 	*Respuesta = 25 mA*
 
-3. 0.00000000129 = 
+3. 0.00000000129 = su notación científica es 129 * 10^-9 ==> el prefijo de la potencia 10^-9 es "nano"  y su símbolo es la letra ¨n¨ ==> se reemplaza la potencia con el símbolo del prefijo y se le aumenta la A(amperes), entonces: 
 	
 	*Respuesta = 1.29 nA*
    
@@ -180,15 +180,15 @@ Fidel
 
 **23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-1. 3 * 10^-6 F = 
+1. 3 * 10^-6 F ==> la potencia 10^-6 tiene su prefijo "micro" y su simbología es la letra ¨u¨ , entonces:
 	
-	*Respuesta = 3 mF*
+	*Respuesta = 3 uF*
 
-2. 3.3 * 10^6 Æ = 
+2. 3.3 * 10^6 Ω = la potencia 10^6 tiene su prefijo "mega" y su simbología es la letra ¨M¨ , entonces:
 	
-	*Respuesta = 3.3 MÆ*
+	*Respuesta = 3.3 MΩ*
 
-3. 350 * 10^-9 A = 
+3. 350 * 10^-9 A = la potencia 10^-9 tiene su prefijo "nano" y su simbología es la letra ¨n¨ , entonces:
 	
 	*Respuesta = 350 nA*
    

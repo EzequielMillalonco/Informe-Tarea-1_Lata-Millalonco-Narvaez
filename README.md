@@ -85,7 +85,7 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	
 ### CAPÍTULO 1: Problemas (pag. 13)
 	
-		SECCIÓN 1–2 Notación científica
+#### <p align=center> SECCIÓN 1–2 Notación científica
 	
 **1. La notación científica utiliza potencias de diez.**
 	
@@ -136,7 +136,7 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 	c) (2.2 * 10^(-9))(7 * 10^(-6)) = Se multiplican los numeros y se suman los coeficientes, obteniendo 15.4 * 10^(-15) y esto es 1.54 * 10^(-14)
 	
 
-<p align=center> SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+#### <p align=center> SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 	
 **13. Exprese cada uno de los números siguientes en notación de ingeniería:**
 	
@@ -245,25 +245,25 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 
    
 	
-		SECCIÓN 1–4 Conversiones de unidades métricas
+#### <p align=center> SECCIÓN 1–4 Conversiones de unidades métricas
 	
 Pablo	
 		
 ### CAPÍTULO 2: Problemas (pag. 64)
 	
-		SECCIÓN 2–2 Carga eléctrica
+#### <p align=center> SECCIÓN 2–2 Carga eléctrica
 	
 Pablo
 	
-		SECCIÓN 2–3 Voltaje, corriente y resistencia
+#### <p align=center> SECCIÓN 2–3 Voltaje, corriente y resistencia
 	
 Pablo	
 	
-		SECCIÓN 2–4 Fuentes de voltaje y de corriente
+#### <p align=center> SECCIÓN 2–4 Fuentes de voltaje y de corriente
 	
 Pablo	
 	
-		SECCIÓN 2–5 Resistores
+#### <p align=center> SECCIÓN 2–5 Resistores
 
 **21. Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas**
 
@@ -419,7 +419,7 @@ Pablo
 
 
 		
-SECCIÓN 2–6 El circuito eléctrico
+#### <p align=center> SECCIÓN 2–6 El circuito eléctrico
 	
 **31. Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.**
 
@@ -433,7 +433,7 @@ SECCIÓN 2–6 El circuito eléctrico
 	
 	
 	
-		SECCIÓN 2–7 Mediciones de circuito básicas
+#### <p align=center> SECCIÓN 2–7 Mediciones de circuito básicas
 
 
 **37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.**

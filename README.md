@@ -161,7 +161,7 @@ Fidel
 
    (b) 3.3 * 10^6 Æ = 3.3 MÆ
 
-   (c) 350 * 10^-9 A = 350 nA
+   (c) 350 * 10^-9 A = 350 nA 
    
 
 **25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**

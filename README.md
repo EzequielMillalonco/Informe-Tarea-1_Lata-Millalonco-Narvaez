@@ -1,5 +1,5 @@
 # TAREA 1
-## 1.	OBJETIVOS
+## 1.	OBJETIVOS 
 
 	1.1	GENERAL: 
 Analizar los 2 primeros capítulos del libro ¨Principios de circuitos eléctricos¨ de Floyd, con el objetivo de introducirse en los conceptos básicos de la electrónica.

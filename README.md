@@ -269,20 +269,19 @@ Dentro del núcleo, las particulas están cargadas negativamente **(electrones)*
 
 *29. Sume las siguientes cantidades*
    
-	a) 50mA + 680 micro Amperios
+  	a) 50mA + 680 micro Amperios
    
 ![29 1](https://user-images.githubusercontent.com/93834732/140675536-dc89d8e7-4620-4e1c-ac70-069fd88ae643.PNG)
 
 	b) 120 kilo Ohmios + 2.2 Mega Ohmios
-	
 	Se trasnforma de Kilo Ohmios a Mega Ohmios y se realiza la operacion
 
 ![29 3](https://user-images.githubusercontent.com/93834732/140675755-078c4a2d-3a97-475d-a806-3fbf826a34f6.PNG)
 
-	c) 0.02 micro Faradios + 3300 pico Faradios
+   	c) 0.02 micro Faradios + 3300 pico Faradios
+   
+   	Se trasnforma de pico faradios a micro faradios y se realiza la operacion
 	
-	Se trasnforma de pico faradios a micro faradios y se realiza la operacion
-
 ![29 2](https://user-images.githubusercontent.com/93834732/140676062-af1698be-d438-4df1-b5f4-947481b56641.PNG)
 	
 		

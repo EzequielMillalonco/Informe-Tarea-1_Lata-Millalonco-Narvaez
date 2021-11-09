@@ -437,9 +437,8 @@ Pablo
 
 **35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue:**
 	
-	Se tomara el camino de ¨VS1( tensión de salida) conectada a R1(resistencia) y VS2 conectada a R2¨. 
-	Para construir el circuito necesitaremos 2 fuentes de corriente, 2 resistores y 1 interruptor del tipo doble polo doble tiro. 
-	Además todas estan conectadas a tierra, creando asi una conexión equipotencial.
+	Se tomara el camino de ¨VS1( tensión de salida) conectada a R1(resistencia) y VS2 conectada a R2¨. Para construir el circuito necesitaremos 2 fuentes de corriente, 
+	2 resistores y 1 interruptor del tipo doble polo doble tiro. Además todas estan conectadas a tierra, creando asi una conexión equipotencial.
 
 ![35](https://user-images.githubusercontent.com/93396250/140863190-01d83f71-ba55-467c-9a6f-03e8e72b5d46.jpg)
 	
@@ -452,11 +451,16 @@ Pablo
 	El voltaje se mide con un Voltímetro conectado en paralelo.
 	La corriente se mide con un Amperímetro conectado en serie.
 	
-	![37](https://user-images.githubusercontent.com/93396250/140864714-d933002c-dc52-47e3-9938-2e4b6a9f894b.JPG)
-
+![37](https://user-images.githubusercontent.com/93396250/140864714-d933002c-dc52-47e3-9938-2e4b6a9f894b.JPG)
 
 
 **39. En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?**
+	
+	Cuando el medidor está en la posición 1 se puede observar que este indica que V1 = 0 V y en V2 = V
+	Cuando el medidor está en la posición 2 se puede observar que este indica que V1 = VS y V2 = 0 V
+	
+![2 70](https://user-images.githubusercontent.com/93396250/140864866-0f82de2d-cde6-489f-9f27-3a6fea35f433.JPG)
+	
 
 **41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.**
 

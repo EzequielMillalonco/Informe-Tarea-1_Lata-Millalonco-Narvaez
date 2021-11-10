@@ -605,7 +605,7 @@ calorífica en 15 s, ¿cuál es el voltaje a través del resistor?**
 
 ## 4.	VIDEO
 	
-	Link del video ¨Tarea #1 Fundamentos de Circuitos Eléctricos¨, en dondé se explican 4 ejercicios vistos en la Tarea #1 :
+	Link del video ¨Informe tarea 1¨, en dondé se explican 4 ejercicios vistos en la Tarea #1 :
 	
 https://youtu.be/2iV6VzArCmY
 	
